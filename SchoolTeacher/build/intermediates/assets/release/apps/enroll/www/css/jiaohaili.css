@@ -1,0 +1,148 @@
+body{
+	background-color: #FFFFFF;
+}
+
+header{
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 50px;
+	z-index: 101;;
+}	
+
+.leftBtn{
+	position: absolute;
+	top: 20px;
+	left: 0;
+    width: 50px;
+    height: 50px;
+}
+
+/*标题栏返回按钮*/
+header div.leftBtn{
+	position: absolute;
+}
+
+
+/*搜索框属性设置*/
+.search-box-set{
+	padding-top: 41px;
+}
+
+/*搜索框-属性*/
+input[type=search] {
+	font-size: 16px;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+	height: 57px;
+	text-align: center;
+	border: 0;
+	border-radius: 0px;
+	border-bottom: 1px solid #CCCCCC;
+	background-color: #FFFFFF;
+}
+
+/*搜索框-输入区域属性*/
+.mui-search .mui-placeholder {
+    font-size: 16px;
+    position: absolute;
+    z-index: 1;
+    top: 7px;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    display: inline-block;
+    height: 57px;
+    text-align: center;
+    color: #999;
+    border: 0;
+    border-radius: 6px;
+    background: 0 0;
+    line-height: 50px;
+}
+
+/*搜索框-输入区域搜素图标上下左右间距*/
+.mui-search:before {
+	top: 55%;
+	margin-left: 19px;
+}
+
+/*搜索框-输入区域搜内容上下左右间距*/
+.mui-search input[type=search] {
+    padding-top: 17px;
+    padding-left: 49px;
+}
+
+
+/*搜索框-输入区域清除图标的属性配置*/
+.mui-input-row .mui-input-clear~.mui-icon-clear, .mui-input-row .mui-input-password~.mui-icon-eye, .mui-input-row .mui-input-speech~.mui-icon-speech {
+    font-size: 20px;
+    position: absolute;
+    z-index: 1;
+    top: 7px;
+    right: 0;
+    width: 38px;
+    height: 57px;
+    text-align: center;
+    color: #999;
+    line-height: 50px;
+}
+
+/*搜索框-输入区域文字的属性*/
+.search-box-text {
+	size: 16px;
+	color: #666666;
+	border-radius: 0px;
+}
+
+.no-data-top {
+	margin-top: 80px;
+}
+
+.no-data-top-text {
+	margin-top: 33px;
+	size: 16px;
+	color: #999999;
+}
+
+/*下拉listview的间距*/
+.mui-scroll-wrapper {
+    position: absolute;
+    z-index: 2;
+    top: 120px;
+    bottom: 0;
+    left: 0;
+    overflow: hidden;
+    width: 100%;
+}
+
+/* 点击list的颜色*/
+/*.mui-table-view-cell.mui-active {
+	background-color: #0062CC;
+}*/
+
+.item-image-style {
+	width: 40px;
+	height: 40px;
+	margin-left: 0px;
+	align-content: center;
+}
+
+.item-text-style-left {
+	size: 16px;
+	color: #333333;
+	margin-left: 17px;
+	line-height: 40px;
+	float: left;
+}
+
+.item-text-style-right {
+	size: 13px;
+	color: #999999;
+	margin-left: 21px;
+	line-height: 40px;
+	float: right;
+}
+
+<!-------------------------------------------------------- 在用 ---------------------------------------->

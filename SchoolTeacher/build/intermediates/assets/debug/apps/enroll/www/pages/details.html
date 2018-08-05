@@ -1,0 +1,282 @@
+<!DOCTYPE html>
+<html>
+
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no" />
+		<link href="../css/mui.min.css" rel="stylesheet" />
+		<link rel="stylesheet" href="../css/custom.css">
+		<link rel="stylesheet" href="../css/shilongfei.css" />
+
+		<script src="../js/jquery.min.js"></script>
+		<script src="../js/mui/mui.min.js"></script>
+		<script src="../js/vue/vue.min.js"></script>
+	</head>
+
+	<body>
+		<div>
+
+			<header class="mui-bar mui-bar-nav custom-bar">
+				<a class="mui-action-back mui-pull-left leftBtn" href="javascript:;"><img src="../img/navigationbar_backs.png" width="50px" height="50px"></a>
+				<h1 class="mui-title">新生报到详情</h1>
+			</header>
+			<div class="slf_ho" id="app">
+
+				<div class="mui-card custom-card">
+					<div class="mui-clearfix">
+						<img class="slf_enroll_image" :src="getPhoto(list.sex)" />
+						<div class="sif-enroll_name" v-cloak>{{ list.true_name }}
+						</div>
+						<div class="sif-enroll_liner">
+							<img class="sif-enroll_sex" :src="getImgUrl(list.sex)" />
+						</div>
+						<a href="javascript:;" @tap="getPhone(list.true_name,list.phone)" class="sif-enroll_phone">
+							<img src="../img/ico_Telephone.png" />
+						</a>
+					</div>
+					<!--<img class="sif-enroll_phone" src="../img/ico_Telephone.png" @click="getPhone(list.true_name,list.relatives_phone)" />-->
+					<hr class="sif-enroll_line" style="background-color: #CCCCCC;height: 1px;border: none;" />
+					<div class="mui-card-content">
+						<table border="0" cellspacing="0" cellpadding="0">
+							<tr>
+								<th style="font-size: 13px;">准考证号</th>
+								<td style="font-size: 13px;" v-cloak>{{ list.ticket }}</td>
+							</tr>
+							<tr>
+								<th style="font-size: 13px;">身份证号</th>
+								<td style="font-size: 13px;" v-cloak>{{ list.idcard }}</td>
+							</tr>
+							<tr>
+								<th style="font-size: 13px;">院系专业</th>
+								<td style="font-size: 13px;" v-cloak>
+									<span v-cloak>{{  list.department }}-{{ list.specialty }}</span>
+								</td>
+							</tr>
+						</table>
+					</div>
+				</div>
+				<div class="slf_enroll_002">
+					<div class="slf_itme_tv">
+						家长电话
+					</div>
+					<div class="slf_itme_tv_phone" v-cloak>
+						{{ list.relatives_phone }}
+					</div>
+					<img class="sif-enroll_itme_phone" src="../img/ico_Telephone.png" @click="getHeadPhone(list.relatives_phone)" />
+				</div>
+				<div class="slf_enroll_003">
+					<div class="slf_itme_tv_status_temp">
+						报到状态:
+					</div>
+					<div class="sif-enroll_itme_status" v-html="getStatus(list.report_status)" v-cloak>
+						
+					</div>
+					<hr class="sif-enroll_line" style="background-color: #CCCCCC;height: 1px;border: none;" />
+
+				</div>
+				<div class="slf_itme_detail">
+
+					<div class="slf_itme_weizhi">
+						报到状态明细
+					</div>
+					<div class="slf_enroll_list" v-for="(item, index) in report_detail">
+
+						<img v-if="item.process_status==1" class="slf_enroll_list_dian" src="../img/icon_point_pre.png" />
+						<img v-else class="slf_enroll_list_dian1 " src="../img/gray_point.png" />
+
+						<div class="slf_enroll_list_line">
+
+							<div class="slf_enroll_list_shenfen" v-cloak>
+								[{{ item.process_name }}]
+							</div>
+							<button v-if="item.process_status==0" @click="getSure(item.process_name,item.process_id)" class="slf_enroll_list_btn" v-cloak>确认办理</button>
+							<div v-if="item.process_status==1" v-cloak>
+								<div>
+									<div class="slf_itme_tx ">经办人</div>
+									<div class="slf_itme_tx_1 " v-cloak>{{ item.list.oper_name }}</div>
+								</div>
+								<div>
+									<div class="slf_itme_tx ">电话</div>
+									<div class="slf_itme_tx_2 " v-cloak>{{ item.list.oper_phone }}</div>
+								</div>
+								<div>
+									<div class="slf_itme_tx ">办结</div>
+									<div class="slf_itme_tx_2 " v-cloak>{{ getLocalTime(item.list.create_time) }}</div>
+								</div>
+								<div v-if="item.list.remark!='' " class="sif-beizhu_liner " style="display: block; ">
+
+									<div class="slf_itme_tx ">备注</div>
+									<div class="slf_itme_tx_2 " v-cloak>{{ item.list.remark }}</div>
+
+								</div>
+
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<script src="../js/config.js"></script>
+		<script src="../js/common.js"></script>
+
+		<script type="text/javascript ">
+			var id = root.getQueryString("id");
+			var token = root.getItem("token");
+			var vm = new Vue({
+				el: '#app',
+				data: {
+					item: {
+						token: token,
+						id: id
+					},
+					sendItem: {
+						token: token,
+						id: '',
+						process_id: '',
+						remark: ''
+					},
+					list: {
+						address: "",
+						birthday: "",
+						create_time: "",
+						create_user_id: "",
+						department: "",
+						id: "",
+						idcard: "",
+						is_delete: "0",
+						nation: "",
+						phone: "",
+						place: "",
+						relatives_phone: "",
+						report_finish_time: "0",
+						report_status: "0",
+						school_id: "",
+						sex: "1",
+						specialty: "",
+						status: "",
+						ticket: "",
+						true_name: "",
+						uniqid: ""
+					},
+					report_detail: []
+				},
+
+				created: function() {
+					var vm = this;
+					this.fetchData();
+				},
+				methods: {
+					fetchData: function() {
+						var vm = this;
+						// 我发布的待领取任务列表
+						root.request("Apienroll/newStuDetailById", vm.item, function(data) {
+							if(data.status == 1) {
+								vm.list = data.list;
+								vm.sendItem.id = data.list.id;
+								vm.report_detail = data.report_detail;
+							} else {
+								mui.alert(data.msg);
+							}
+						});
+					},
+
+					getStatus: function(status) {
+						type = parseInt(status);
+						switch(type) {
+							case 1:
+								return '进行中';
+								break;
+							case 0:
+								return '未完成';
+							case 2:
+							      return "<span style='color:#49C433;'>已完成</span>";
+								break;
+
+						}
+					},
+
+					getSure: function(process_name, process_id) {
+						var vm = this;
+						var btnArray = ['取消', '确定'];
+						mui.prompt(" ", "备注（选填） ", process_name, btnArray, function(e) {
+							if(e.index == 1) { //确定
+								vm.sendItem.process_id = process_id;
+								vm.sendItem.remark = e.value;
+								root.request("Apienroll/confirmReport", vm.sendItem, function(data) {
+									if(data.status == 1) {
+										mui.toast(data.msg);
+										vm.fetchData();
+									} else {
+										mui.alert(data.msg);
+									}
+								});
+							}
+
+						}, 'div')
+					},
+					getImgUrl: function(sex) {
+						type = parseInt(sex);
+						switch(type) {
+							case 0:
+								return '../img/icon-woman.png';
+								break;
+							case 1:
+								return '../img/icon-man.png';
+								break;
+
+						}
+					},
+					getPhoto: function(sex) {
+						type = parseInt(sex);
+						switch(type) {
+							case 0:
+								return '../img/icon_friend_image_woman.png';
+								break;
+							case 1:
+								return '../img/ico_grxx.png';
+								break;
+
+						}
+					},
+					getPhone: function(true_name, relatives_phone) {
+						var vm = this;
+						var btnArray = ['取消', '拨打'];
+						mui.confirm(relatives_phone, true_name, btnArray, function(e) {
+							if(e.index == 1) {
+								var isIos = root.browser.ios;
+								var isAndroid = root.browser.android;
+								if(isAndroid){
+						            plus.device.dial(relatives_phone, false);
+						        }else if(isIos){
+						            window.location.href = 'tel:' + relatives_phone;
+						        }
+							}
+						});
+					},
+
+					getHeadPhone: function(phone) {
+						var vm = this;
+						var btnArray = ['取消', '拨打'];
+						mui.confirm(phone, "电话 ", btnArray, function(e) {
+							if(e.index == 1) {
+								var isIos = root.browser.ios;
+								var isAndroid = root.browser.android;
+								if(isAndroid){
+						            plus.device.dial(phone, false);
+						        }else if(isIos){
+						            window.location.href = 'tel:' + phone;
+						        }
+							}
+						});
+					},
+					getLocalTime: function(ns) {
+						return root.getLocalTime(ns, 'm/d hh:mm');
+					},
+
+				}
+			});
+		</script>
+	</body>
+
+</html>

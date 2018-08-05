@@ -1,0 +1,1418 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\activity_side_notice_detail.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\activity_side_notice_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\rc_item_public_service_conversation.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\exploded-aar\\SchoolPassTheacher\\RongIMKit\\unspecified\\res\\layout\\rc_item_public_service_conversation.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\item_add_found_images.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\item_add_found_images.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\activity_acc_about_app.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\activity_acc_about_app.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\introduction_three.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\introduction_three.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\item_message.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\item_message.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\item_wages_list.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\item_wages_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\activity_mess_notice_list.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\activity_mess_notice_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\introduction_two.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\introduction_two.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\activity_mess_notice_head.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\activity_mess_notice_head.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\rc_cs_alert_warning.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\exploded-aar\\SchoolPassTheacher\\RongIMKit\\unspecified\\res\\layout\\rc_cs_alert_warning.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\rc_fr_conversation_member_list.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\exploded-aar\\SchoolPassTheacher\\RongIMKit\\unspecified\\res\\layout\\rc_fr_conversation_member_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\dialog_logo.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\dialog_logo.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\activity_side_attence_set_contact.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\activity_side_attence_set_contact.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\date_custom_tab.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\date_custom_tab.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\dialog_repeat.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\dialog_repeat.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\activity_meeting_main.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\activity_meeting_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\rc_picsel_catalog_listview.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\exploded-aar\\SchoolPassTheacher\\RongIMKit\\unspecified\\res\\layout\\rc_picsel_catalog_listview.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\rc_item_discussion_notification_message.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\exploded-aar\\SchoolPassTheacher\\RongIMKit\\unspecified\\res\\layout\\rc_item_discussion_notification_message.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\activity_contact_out_school_search.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\activity_contact_out_school_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\itme_dialog_info.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\itme_dialog_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\activity_contact_school_in.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\activity_contact_school_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\itme_attence_person.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\itme_attence_person.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\rc_ac_webview.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\exploded-aar\\SchoolPassTheacher\\RongIMKit\\unspecified\\res\\layout\\rc_ac_webview.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\rc_wi_vo_popup.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\exploded-aar\\SchoolPassTheacher\\RongIMKit\\unspecified\\res\\layout\\rc_wi_vo_popup.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\rc_item_public_service_multi_rich_content_message.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\exploded-aar\\SchoolPassTheacher\\RongIMKit\\unspecified\\res\\layout\\rc_item_public_service_multi_rich_content_message.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\item_acc_balcklist.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\item_acc_balcklist.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\dialog_general.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\dialog_general.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\activity_side_statistics_detail.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\activity_side_statistics_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\activity_acc_sysnotice_acy.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\activity_acc_sysnotice_acy.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\dialog_course_select_time.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\dialog_course_select_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\activity_acc_change_no_success.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\activity_acc_change_no_success.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\item_side_notice_failure_sms.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\item_side_notice_failure_sms.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\activity_side_notice_failure_smslist.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\activity_side_notice_failure_smslist.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\item_side_main.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\item_side_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\item_check_listview_list_time.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\item_check_listview_list_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\activity_side_attence_personal_statistics.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\activity_side_attence_personal_statistics.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\rc_fr_public_service_inf.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\exploded-aar\\SchoolPassTheacher\\RongIMKit\\unspecified\\res\\layout\\rc_fr_public_service_inf.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\item_attence_text.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\item_attence_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\item_contact_group_inschool.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\item_contact_group_inschool.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\file_choose_item.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\file_choose_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\activity_acc_certivication.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\activity_acc_certivication.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\item_notice.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\item_notice.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\activity_acc_forge_success.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\activity_acc_forge_success.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\item_contace_student_class.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\item_contace_student_class.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\activity_side_course_add.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\activity_side_course_add.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\activity_acc_modify_pwd.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\activity_acc_modify_pwd.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\rc_fr_messageinput.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\exploded-aar\\SchoolPassTheacher\\RongIMKit\\unspecified\\res\\layout\\rc_fr_messageinput.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\activity_start.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\activity_start.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\item_lecture_detail.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\item_lecture_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\rc_item_public_service_input_menu_item.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\exploded-aar\\SchoolPassTheacher\\RongIMKit\\unspecified\\res\\layout\\rc_item_public_service_input_menu_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\notice_view_white_largermargin.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\notice_view_white_largermargin.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\item_contace_out_school_search_result.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\item_contace_out_school_search_result.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\activity_side_lost_found_main.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\activity_side_lost_found_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\pub_tag_load.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\pub_tag_load.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\item_check_mark_list.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\item_check_mark_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\introduction_four.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\introduction_four.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\item_side_infomation.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\item_side_infomation.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\date_activity.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\date_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\activity_mess_select_class.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\activity_mess_select_class.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\activity_mess_notice_detail_havehuizhibtn.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\activity_mess_notice_detail_havehuizhibtn.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\activity_side_notice_add_contacts.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\activity_side_notice_add_contacts.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\activity_complete_two.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\activity_complete_two.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\activity_side_select_attence.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\activity_side_select_attence.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\rc_cs_alert_human_evaluation.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\exploded-aar\\SchoolPassTheacher\\RongIMKit\\unspecified\\res\\layout\\rc_cs_alert_human_evaluation.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\activity_acc_invite.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\activity_acc_invite.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\date_fragment_date.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\date_fragment_date.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\rc_item_conversation.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\exploded-aar\\SchoolPassTheacher\\RongIMKit\\unspecified\\res\\layout\\rc_item_conversation.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\rc_wi_input.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\exploded-aar\\SchoolPassTheacher\\RongIMKit\\unspecified\\res\\layout\\rc_wi_input.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\activity_side_enrolled_main.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\activity_side_enrolled_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\rc_fr_photo.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\exploded-aar\\SchoolPassTheacher\\RongIMKit\\unspecified\\res\\layout\\rc_fr_photo.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\item_check_position.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\item_check_position.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\titled_fragment_tab_activity.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\titled_fragment_tab_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\item_side_course_add_more.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\item_side_course_add_more.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\activity_side_repair.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\activity_side_repair.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\activity_main_account.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\activity_main_account.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\de_activity.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\de_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\activity_side_found_bigimage.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\activity_side_found_bigimage.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\activity_side_notice_setpassword_activity.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\activity_side_notice_setpassword_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\rc_wi_block_popup.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\exploded-aar\\SchoolPassTheacher\\RongIMKit\\unspecified\\res\\layout\\rc_wi_block_popup.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\activity_side_attendence_add_student.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\activity_side_attendence_add_student.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\rc_picprev_activity.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\exploded-aar\\SchoolPassTheacher\\RongIMKit\\unspecified\\res\\layout\\rc_picprev_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\activity_mess_notice_detail_official.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\activity_mess_notice_detail_official.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\activity_side_select_sign_dialog.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\activity_side_select_sign_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\upload_de_ui_dialog_loading.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\upload_de_ui_dialog_loading.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\item_lost_found.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\item_lost_found.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\rc_fr_conversationlist.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\exploded-aar\\SchoolPassTheacher\\RongIMKit\\unspecified\\res\\layout\\rc_fr_conversationlist.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\notice_view_white_smallmargin.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\notice_view_white_smallmargin.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\item_check_listview_list.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\item_check_listview_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\activity_main_message.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\activity_main_message.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\rc_fr_public_service_search.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\exploded-aar\\SchoolPassTheacher\\RongIMKit\\unspecified\\res\\layout\\rc_fr_public_service_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\activity_side_forget_pwd.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\activity_side_forget_pwd.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\activity_acc_about_call_us.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\activity_acc_about_call_us.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\activity_side_lost_mine.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\activity_side_lost_mine.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\item_lost_found_list.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\item_lost_found_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\item_info_comment.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\item_info_comment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\item_side_course_detail.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\item_side_course_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\activity_acc_gesture_set.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\activity_acc_gesture_set.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\item_repair_list.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\item_repair_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\item_index_side_accence.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\item_index_side_accence.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\item_itme_achievement.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\item_itme_achievement.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\activity_contact_student_list.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\activity_contact_student_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\pub_read_no_content.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\pub_read_no_content.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\item_foot_view.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\item_foot_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\activity_side_pub_attdence.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\activity_side_pub_attdence.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\rc_item_progress.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\exploded-aar\\SchoolPassTheacher\\RongIMKit\\unspecified\\res\\layout\\rc_item_progress.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\activity_side_course_main.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\activity_side_course_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\item_side_notice_addcontact_group.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\item_side_notice_addcontact_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\activity_side_enrolled_main_a1_report_details.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\activity_side_enrolled_main_a1_report_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\activity_register_main_2.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\activity_register_main_2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\pub_read_loading.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\pub_read_loading.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\item_pub_text.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\item_pub_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\conversation_soso_map.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\conversation_soso_map.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\rc_item_public_service_rich_content_message.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\exploded-aar\\SchoolPassTheacher\\RongIMKit\\unspecified\\res\\layout\\rc_item_public_service_rich_content_message.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\item_acc_sysnotice_list.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\item_acc_sysnotice_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\activity_side_attendence_detail.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\activity_side_attendence_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\rc_picsel_grid_camera.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\exploded-aar\\SchoolPassTheacher\\RongIMKit\\unspecified\\res\\layout\\rc_picsel_grid_camera.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\activity_mess_group_chat.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\activity_mess_group_chat.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\item_index_messge.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\item_index_messge.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\item_user_comment.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\item_user_comment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\item_side_notice_addcontact_child.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\item_side_notice_addcontact_child.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\activity_side_news_list.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\activity_side_news_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\titlebar_base.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\titlebar_base.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\activity_side_select_sign.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\activity_side_select_sign.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\rc_item_image_message.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\exploded-aar\\SchoolPassTheacher\\RongIMKit\\unspecified\\res\\layout\\rc_item_image_message.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\rc_item_location_message.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\exploded-aar\\SchoolPassTheacher\\RongIMKit\\unspecified\\res\\layout\\rc_item_location_message.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\activity_side_course_search.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\activity_side_course_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\conversation.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\conversation.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\activity_side_notice_head.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\activity_side_notice_head.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\getui_notification.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\getui_notification.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\rc_wi_vo_provider.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\exploded-aar\\SchoolPassTheacher\\RongIMKit\\unspecified\\res\\layout\\rc_wi_vo_provider.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\rc_item_app_service_conversation.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\exploded-aar\\SchoolPassTheacher\\RongIMKit\\unspecified\\res\\layout\\rc_item_app_service_conversation.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\rc_item_base_conversation.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\exploded-aar\\SchoolPassTheacher\\RongIMKit\\unspecified\\res\\layout\\rc_item_base_conversation.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\item_examine_detail.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\item_examine_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\activity_side_notice_gesture.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\activity_side_notice_gesture.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\rc_picsel_activity.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\exploded-aar\\SchoolPassTheacher\\RongIMKit\\unspecified\\res\\layout\\rc_picsel_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\activity_side_repair_detail.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\activity_side_repair_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\rc_item_conversation_member.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\exploded-aar\\SchoolPassTheacher\\RongIMKit\\unspecified\\res\\layout\\rc_item_conversation_member.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\activity_mess_person__info.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\activity_mess_person__info.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\rc_item_text_message_evaluate.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\exploded-aar\\SchoolPassTheacher\\RongIMKit\\unspecified\\res\\layout\\rc_item_text_message_evaluate.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\view_cycle_viewpager_contet.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\view_cycle_viewpager_contet.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\activity_acc_complete_mater.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\activity_acc_complete_mater.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\activity_side_select_report_type.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\activity_side_select_report_type.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\notice_view_dark_margin.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\notice_view_dark_margin.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\rc_fr_messagelist.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\exploded-aar\\SchoolPassTheacher\\RongIMKit\\unspecified\\res\\layout\\rc_fr_messagelist.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\rc_item_system_conversation.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\exploded-aar\\SchoolPassTheacher\\RongIMKit\\unspecified\\res\\layout\\rc_item_system_conversation.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\rc_item_public_service_input_menu.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\exploded-aar\\SchoolPassTheacher\\RongIMKit\\unspecified\\res\\layout\\rc_item_public_service_input_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\rc_ac_camera.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\exploded-aar\\SchoolPassTheacher\\RongIMKit\\unspecified\\res\\layout\\rc_ac_camera.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\activity_select_contancts.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\activity_select_contancts.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\viewfull.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\viewfull.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\activity_side_check_detail.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\activity_side_check_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\rc_fr_dialog_alter.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\exploded-aar\\SchoolPassTheacher\\RongIMKit\\unspecified\\res\\layout\\rc_fr_dialog_alter.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\rc_plugin_gridview.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\exploded-aar\\SchoolPassTheacher\\RongIMKit\\unspecified\\res\\layout\\rc_plugin_gridview.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\item_check_grid_list.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\item_check_grid_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\activity_side_notice_search.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\activity_side_notice_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\pub_read_faile_enroll.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\pub_read_faile_enroll.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\item_side_attence_set_contact.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\item_side_attence_set_contact.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\rc_item_public_service_search.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\exploded-aar\\SchoolPassTheacher\\RongIMKit\\unspecified\\res\\layout\\rc_item_public_service_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\item_attence_statistics_list.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\item_attence_statistics_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\item_found_detail.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\item_found_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\dialog_share.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\dialog_share.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\activity_acc_change_no.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\activity_acc_change_no.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\activity_side_lost_found_search.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\activity_side_lost_found_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\introduct_acy.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\introduct_acy.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\activity_main_side.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\activity_main_side.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\activity_mess_notice_detail_examine.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\activity_mess_notice_detail_examine.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\activity_forget_1.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\activity_forget_1.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\activity_side_lost_zhaoling.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\activity_side_lost_zhaoling.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\rc_item_information_notification_message.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\exploded-aar\\SchoolPassTheacher\\RongIMKit\\unspecified\\res\\layout\\rc_item_information_notification_message.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\rc_wi_txt_provider.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\exploded-aar\\SchoolPassTheacher\\RongIMKit\\unspecified\\res\\layout\\rc_wi_txt_provider.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\activity_image_grid.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\activity_image_grid.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\rc_wi_text_btn.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\exploded-aar\\SchoolPassTheacher\\RongIMKit\\unspecified\\res\\layout\\rc_wi_text_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\item_select_school_text.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\item_select_school_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\upload_choosepicture.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\upload_choosepicture.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\date_fragment_time.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\date_fragment_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\rc_ac_selected_pictrue.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\exploded-aar\\SchoolPassTheacher\\RongIMKit\\unspecified\\res\\layout\\rc_ac_selected_pictrue.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\dialog_course_select_week.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\dialog_course_select_week.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\notification_media_action.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\activity_mess_all_search.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\activity_mess_all_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\file_choose_footer.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\file_choose_footer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\activity_mess_select_school.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\activity_mess_select_school.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\item_side_attence_main.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\item_side_attence_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\rc_cs_alert_robot_evaluation.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\exploded-aar\\SchoolPassTheacher\\RongIMKit\\unspecified\\res\\layout\\rc_cs_alert_robot_evaluation.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\activity_side_lost_mian.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\activity_side_lost_mian.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\introduction_one.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\introduction_one.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\item_add_notice_images.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\item_add_notice_images.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\activity_side_acy_head.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\activity_side_acy_head.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\activity_side_attendence_main.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\activity_side_attendence_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\rc_wi_plugins.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\exploded-aar\\SchoolPassTheacher\\RongIMKit\\unspecified\\res\\layout\\rc_wi_plugins.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\item_side_notice_detail_more.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\item_side_notice_detail_more.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\titlebar_base_navi.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\titlebar_base_navi.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\activity_acc_push_set.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\activity_acc_push_set.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\activity_side_notice_receipt.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\activity_side_notice_receipt.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\activity_mess_notice_detail.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\activity_mess_notice_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\date_time_picker.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\date_time_picker.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\item_side_attence_add_student.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\item_side_attence_add_student.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\pub_toast_default.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\pub_toast_default.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\rc_item_preview_fragment.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\exploded-aar\\SchoolPassTheacher\\RongIMKit\\unspecified\\res\\layout\\rc_item_preview_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_lines.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\rc_fr_conversation.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\exploded-aar\\SchoolPassTheacher\\RongIMKit\\unspecified\\res\\layout\\rc_fr_conversation.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\activity_mess_notice_detail_sys.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\activity_mess_notice_detail_sys.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\item_side_notice_sent.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\item_side_notice_sent.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\pull_to_refresh_header_vertical.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\pull_to_refresh_header_vertical.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\rc_wi_block.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\exploded-aar\\SchoolPassTheacher\\RongIMKit\\unspecified\\res\\layout\\rc_wi_block.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\activity_side_notice_sent_notice.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\activity_side_notice_sent_notice.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\item_cate_listivew.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\item_cate_listivew.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\item_notificity_list_havesurereceiverbtn.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\item_notificity_list_havesurereceiverbtn.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\z_connect_itme.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\z_connect_itme.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\activity_side_found_search_detail.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\activity_side_found_search_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\activity_side_acy_list.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\activity_side_acy_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\rc_picsel_grid_item.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\exploded-aar\\SchoolPassTheacher\\RongIMKit\\unspecified\\res\\layout\\rc_picsel_grid_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\activity_mess_photo_display.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\activity_mess_photo_display.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\rc_item_voice_message.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\exploded-aar\\SchoolPassTheacher\\RongIMKit\\unspecified\\res\\layout\\rc_item_voice_message.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\items_contact_list_haveinvatbtn.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\items_contact_list_haveinvatbtn.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\item_side_course_add.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\item_side_course_add.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\rc_item_public_service_list.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\exploded-aar\\SchoolPassTheacher\\RongIMKit\\unspecified\\res\\layout\\rc_item_public_service_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\activity_image_bucket.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\activity_image_bucket.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\activity_contact_student_class.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\activity_contact_student_class.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\activity_register_main_1.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\activity_register_main_1.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\title_flow_indicator_v4.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\title_flow_indicator_v4.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\pub_network_error.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\pub_network_error.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\item_contact_child_inschool.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\item_contact_child_inschool.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\warn_dialog.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\warn_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_big_media.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\activity_side_add_repair.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\activity_side_add_repair.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\activity_side_acy_detail.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\activity_side_acy_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\dialog_share_side_info.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\dialog_share_side_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\activity_forget_3.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\activity_forget_3.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\rc_emoji_gridview.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\exploded-aar\\SchoolPassTheacher\\RongIMKit\\unspecified\\res\\layout\\rc_emoji_gridview.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\activity_side_enrolled_main_a3_new_search.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\activity_side_enrolled_main_a3_new_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\item_image_bucket.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\item_image_bucket.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\item_contact_outschool.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\item_contact_outschool.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\item_acc_invite_record.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\item_acc_invite_record.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\rc_item_public_service_input_menus.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\exploded-aar\\SchoolPassTheacher\\RongIMKit\\unspecified\\res\\layout\\rc_item_public_service_input_menus.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\activity_side_lost_found.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\activity_side_lost_found.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\activity_register_main_0.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\activity_register_main_0.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\activity_show_files.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\activity_show_files.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\activity_side_add_found.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\activity_side_add_found.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\item_mess_search.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\item_mess_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\item_notice_sent.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\item_notice_sent.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\item_message_fasticon_notice.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\item_message_fasticon_notice.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\item_login_forget_friend.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\item_login_forget_friend.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\activity_side_enrolled_main_a2_report_statistics.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\activity_side_enrolled_main_a2_report_statistics.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\activity_acc_setting.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\activity_acc_setting.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\activity_side_notice_sent_notice_flies.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\activity_side_notice_sent_notice_flies.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\rc_item_group_conversation.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\exploded-aar\\SchoolPassTheacher\\RongIMKit\\unspecified\\res\\layout\\rc_item_group_conversation.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\public_out_dialog.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\public_out_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\activity_acc_sysnotice_info.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\activity_acc_sysnotice_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\activity_login_forget_max_error.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\activity_login_forget_max_error.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\rc_item_rich_content_message.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\exploded-aar\\SchoolPassTheacher\\RongIMKit\\unspecified\\res\\layout\\rc_item_rich_content_message.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\activity_login.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\pub_read_faile.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\pub_read_faile.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\activity_mess_notice_detail_assistant.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\activity_mess_notice_detail_assistant.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\pull_to_refresh_header_horizontal.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\pull_to_refresh_header_horizontal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\activity_mess_group_info.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\activity_mess_group_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\activity_contact_out_school_auto.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\activity_contact_out_school_auto.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\z_connect.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\z_connect.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\item_mess_message_search.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\item_mess_message_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\activity_side_info_detail.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\activity_side_info_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\notice_view_white_nomargin.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\notice_view_white_nomargin.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\activity_mess_school_main.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\activity_mess_school_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\view_banner.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\view_banner.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\z_conect_itme.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\z_conect_itme.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\activity_acc_blacklist.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\activity_acc_blacklist.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\activity_mess_single_chat.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\activity_mess_single_chat.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\title_flow_indicator_v3.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\title_flow_indicator_v3.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\toolbar_main.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\toolbar_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\itme_check_total.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\itme_check_total.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\rc_item_public_service_message.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\exploded-aar\\SchoolPassTheacher\\RongIMKit\\unspecified\\res\\layout\\rc_item_public_service_message.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\activity_acc_invite_inviterecord.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\activity_acc_invite_inviterecord.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\activity_acc_complete_mater_modify.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\activity_acc_complete_mater_modify.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\de_ac_soso_map.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\de_ac_soso_map.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\itme_reporting_list.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\itme_reporting_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\rc_input_pager_layout.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\exploded-aar\\SchoolPassTheacher\\RongIMKit\\unspecified\\res\\layout\\rc_input_pager_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\item_notice_receiverresult_userhead.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\item_notice_receiverresult_userhead.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\item_side_notice_sent_havereceiptmsg.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\item_side_notice_sent_havereceiptmsg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\view_cycle_viewpager_indicator.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\view_cycle_viewpager_indicator.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\item_lost_detail.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\item_lost_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\item_meeting_list.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\item_meeting_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\title_flow_indicator_v2.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\title_flow_indicator_v2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\item_group_member.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\item_group_member.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\rc_emoji_item.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\exploded-aar\\SchoolPassTheacher\\RongIMKit\\unspecified\\res\\layout\\rc_emoji_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\titlebar_base_middle.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\titlebar_base_middle.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\item_check_mark.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\item_check_mark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\item_side_acys.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\item_side_acys.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\rc_wi_notice.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\exploded-aar\\SchoolPassTheacher\\RongIMKit\\unspecified\\res\\layout\\rc_wi_notice.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\activity_side_found_detail.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\activity_side_found_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\rc_fr_public_service_sub_list.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\exploded-aar\\SchoolPassTheacher\\RongIMKit\\unspecified\\res\\layout\\rc_fr_public_service_sub_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\items_contact_list.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\items_contact_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\pub_webview_load.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\pub_webview_load.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\activity_side_check_bigphoto.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\activity_side_check_bigphoto.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\itme_search_text.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\itme_search_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\activity_acc_push_trouble.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\activity_acc_push_trouble.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\activity_contact_school_out.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\activity_contact_school_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\activity_feedback.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\activity_feedback.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\titled_fragment_tab_activity_bottom.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\titled_fragment_tab_activity_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\notice_view.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\notice_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\item_notificity_list.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\item_notificity_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\item_notificity_list_waitsurebtn.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\item_notificity_list_waitsurebtn.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\activity_side_lectures_detail.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\activity_side_lectures_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\activity_side_info_head.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\activity_side_info_head.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\rc_ac_albums.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\exploded-aar\\SchoolPassTheacher\\RongIMKit\\unspecified\\res\\layout\\rc_ac_albums.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\activity_side_notice_sent_sms.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\activity_side_notice_sent_sms.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\item_image_grid.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\item_image_grid.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\activity_side_attence_new_class_attence.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\activity_side_attence_new_class_attence.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\rc_item_text_message.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\exploded-aar\\SchoolPassTheacher\\RongIMKit\\unspecified\\res\\layout\\rc_item_text_message.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\item_side_course_select_week.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\item_side_course_select_week.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\item_search_contactlist.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\item_search_contactlist.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\rc_item_message.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\exploded-aar\\SchoolPassTheacher\\RongIMKit\\unspecified\\res\\layout\\rc_item_message.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\notice_sent_main.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\notice_sent_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\activity_login_forget_friend.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\activity_login_forget_friend.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\item_info_comment_more.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\item_info_comment_more.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\activity_side_notice_detail_receiverresult.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\activity_side_notice_detail_receiverresult.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\activity_side_info_webview.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\activity_side_info_webview.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\activity_mess_notice_head_text.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\activity_mess_notice_head_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\rc_item_discussion_conversation.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\exploded-aar\\SchoolPassTheacher\\RongIMKit\\unspecified\\res\\layout\\rc_item_discussion_conversation.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\rc_fragment_base_setting.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\exploded-aar\\SchoolPassTheacher\\RongIMKit\\unspecified\\res\\layout\\rc_fragment_base_setting.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\activity_side_notice_search_more.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\activity_side_notice_search_more.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\layout\\activity_side_course_detail.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\layout\\activity_side_course_detail.xml"
+    }
+]

@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:background="@color/white" >
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="@dimen/space_56"
+        android:layout_gravity="top"
+        android:background="@color/white">
+
+        <!-- 返回按钮 -->
+        <LinearLayout
+            android:id="@+id/liner_titlebar_back_middle"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_centerVertical="true"
+            android:orientation="horizontal" >
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_marginLeft="19dp"
+                android:layout_marginRight="10dp"
+                android:background="@drawable/navigationbar_back_button_black" />
+        </LinearLayout>
+
+        <!-- 标题栏标题 -->
+        <LinearLayout
+            android:id="@+id/liner_title_middle"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_centerInParent="true"
+            android:orientation="horizontal"
+            android:gravity="center_vertical"
+            android:paddingLeft="@dimen/space_15"
+	        android:paddingRight="@dimen/space_20"
+	        android:focusable="true"
+	        android:focusableInTouchMode="true"
+	        android:visibility="gone">
+	        <TextView
+	            android:id="@+id/tv_titlebar_title_middle"
+	            android:layout_width="wrap_content"
+	            android:layout_height="match_parent"
+	            android:textColor="@color/black_dan"
+	            android:textSize="20sp" 
+	            android:gravity="center"/>
+	        <ImageView
+	            android:layout_width="wrap_content"
+	            android:layout_height="wrap_content"
+	            android:layout_marginLeft="@dimen/space_5"
+	            android:src="@drawable/course_dt" 
+	            android:focusable="false"
+	            android:focusableInTouchMode="false"/>
+	    </LinearLayout>
+        
+        <!-- 最右 -->
+        <LinearLayout
+            android:id="@+id/liner_titlebar_zui_right_middle"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_centerVertical="true"
+            android:layout_alignParentRight="true"
+            android:orientation="horizontal" 
+            android:gravity="center"
+             android:visibility="gone">
+            <ImageView
+                android:id="@+id/iv_zui_right_middle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:scaleType="fitXY"
+				android:layout_marginLeft="19dp"
+				android:layout_marginRight="19dp"
+                 />
+        </LinearLayout>
+        
+        <!-- 偏右 -->
+        <LinearLayout
+            android:id="@+id/liner_titlebar_pian_right_middle"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_centerVertical="true"
+            android:orientation="horizontal"
+            android:layout_toLeftOf="@+id/liner_titlebar_zui_right_middle" 
+            android:visibility="gone"
+            android:gravity="center">
+            <ImageView
+                android:id="@+id/iv_pian_right_middle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:scaleType="fitXY"
+                android:layout_marginLeft="15dp"
+                android:layout_marginRight="10dp"/>
+        </LinearLayout>
+
+        <!-- 提交或者是确认、全选 -->
+        <Button
+            android:id="@+id/tv_title_zuiyou_text_middle"
+            android:layout_width="wrap_content"
+            android:layout_height="@dimen/space_26"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:gravity="center"
+            android:layout_marginRight="@dimen/space_18"
+            android:background="@drawable/navigationbar_textbtn"
+            android:textSize="@dimen/sp_15"
+            android:textColor="@color/main_color"
+            android:visibility="gone" />
+    </RelativeLayout>
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1" >
+        <LinearLayout
+            android:id="@+id/base_content_base_middle"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:gravity="center_horizontal"
+            android:orientation="vertical" >
+        </LinearLayout>
+    </RelativeLayout>
+
+</LinearLayout>

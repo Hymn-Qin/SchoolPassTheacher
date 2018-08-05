@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/col_account_bg"
+    android:orientation="vertical" >
+
+    <!-- 搜索栏 -->
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="56dp"
+        android:gravity="center_vertical"
+        android:paddingLeft="20dp"
+        android:paddingRight="20dp"
+        android:visibility="gone" >
+
+        <com.yuanding.schoolteacher.view.contact.CustomEditText
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="center_vertical"
+            android:background="@null"
+            android:drawableLeft="@drawable/ic_contact_search"
+            android:drawablePadding="5dp"
+            android:drawableRight="@drawable/ic_edit_text_delbtn"
+            android:freezesText="true"
+            android:gravity="center_vertical"
+            android:hint="查找"
+            android:imeOptions="actionSearch"
+            android:paddingLeft="1dp"
+            android:singleLine="true"
+            android:textColor="#333333"
+            android:textColorHint="#999999"
+            android:textSize="17sp" />
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0px"
+        android:layout_weight="1"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:id="@+id/liner_whole_view_all"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical" >
+			<!-- 部门群聊 -->
+            <LinearLayout
+                android:id="@+id/liner_forward_qun"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/space_60"
+                android:paddingLeft="@dimen/space_18"
+                android:gravity="center_vertical"
+                android:orientation="horizontal" >
+
+                <com.yuanding.schoolteacher.view.CircleImageView
+                    android:layout_width="40dp"
+                    android:layout_height="40dp"
+                    android:background="@drawable/icon_mess_ban_liao" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginLeft="18dp"
+                    android:ellipsize="end"
+                    android:gravity="center_vertical"
+                    android:singleLine="true"
+                    android:text="部门群聊"
+                    android:textColor="#333333"
+                    android:textSize="17sp" />
+            </LinearLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="0.4dp"
+                android:background="#CCCCCC" />
+            <!-- 我的同事-->
+            <LinearLayout
+                android:id="@+id/liner_forward_colleagure"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/space_60"
+	            android:paddingLeft="@dimen/space_18"
+                android:gravity="center_vertical"
+                android:orientation="horizontal" >
+
+                <com.yuanding.schoolteacher.view.CircleImageView
+                    android:layout_width="40dp"
+                    android:layout_height="40dp"
+                    android:background="@drawable/ic_forward_laoshi" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginLeft="18dp"
+                    android:ellipsize="end"
+                    android:gravity="center_vertical"
+                    android:singleLine="true"
+                    android:text="我的同事"
+                    android:textColor="#333333"
+                    android:textSize="17sp" />
+            </LinearLayout>
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="0.4dp"
+                android:background="#CCCCCC" />
+            <!-- 我的学生-->
+            <LinearLayout
+                android:id="@+id/liner_forward_student"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/space_60"
+                android:paddingLeft="@dimen/space_18"
+                android:gravity="center_vertical"
+                android:orientation="horizontal" >
+
+                <com.yuanding.schoolteacher.view.CircleImageView
+                    android:layout_width="40dp"
+                    android:layout_height="40dp"
+                    android:background="@drawable/icon_mess_tongshi" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginLeft="18dp"
+                    android:ellipsize="end"
+                    android:gravity="center_vertical"
+                    android:singleLine="true"
+                    android:text="我的学生"
+                    android:textColor="#333333"
+                    android:textSize="17sp" />
+            </LinearLayout>
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="0.4dp"
+                android:background="#CCCCCC" />            
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>

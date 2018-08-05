@@ -1,0 +1,162 @@
+<!doctype html>
+<html>
+
+	<head>
+		<meta charset="UTF-8">
+		<title></title>
+		<meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no" />
+		<style type="text/css">
+			#bcid {
+				position: fixed;
+				top: 0;
+				left: 0;
+				right: 0;
+				bottom: 44px;
+				background: #000000;
+				z-index: 9;
+			}
+			
+			html,
+			body{
+				height: 100%;
+				width: 100%;
+			}
+			.footer {
+				position: fixed;
+				left: 0;
+				right: 0;
+				bottom: 0;
+				height: 44px;
+				line-height: 44px;
+				color: #FFFFFF;
+				font-size: 15px;
+				background: #49C433;
+				text-align: center;
+			}
+			.footer .foot-item {
+				float: left;
+				width: 50%;
+				height: 44px;
+				-webkit-box-sizing: border-box;
+				box-sizing: border-box;
+			}
+		</style>
+	</head>
+
+	<body>
+		<div id="bcid">
+			
+		</div>
+		<div class="footer">
+			<div class="foot-item" style="border-right: 1px solid rgba(255,255,255,0.5);" id="back">取　消</div>
+			<div class="foot-item" id="turnTheLight">灯　光</div>
+		</div>
+		<script src="../js/mui/mui.min.js"></script>
+		<script type="text/javascript">
+			var scan = null; //扫描对象  
+			
+			function plusReady(){
+				startRecognize();
+				// Android处理返回键
+				plus.key.addEventListener('backbutton',function(){
+					closeScode();
+				},false);
+				
+				//打开关闭闪光灯处理  
+				var flag = false;
+				document.getElementById("turnTheLight").addEventListener('tap', function() {
+					if(flag == false) {
+						scan.setFlash(true);
+						flag = true;
+					} else {
+						scan.setFlash(false);
+						flag = false;
+					}
+				});
+				
+				document.getElementById("back").addEventListener('tap', function() {
+					closeScode();
+				});
+			}
+			if(window.plus){
+				plusReady();
+			}else{
+				document.addEventListener('plusready',plusReady,false);
+			}
+
+			function startRecognize() {
+				try {
+					var filter;
+					//自定义的扫描控件样式  
+					var styles = {
+						frameColor: "#29E52C",
+						scanbarColor: "#29E52C",
+						background: ""
+					}
+					//扫描控件构造  
+					scan = new plus.barcode.Barcode('bcid', filter, styles);
+					scan.onmarked = onmarked;
+					scan.onerror = onerror;
+					scan.start();
+				} catch(e) {
+					mui.alert(e);
+				}
+			};
+
+			function onerror(e) {
+				mui.alert(e);
+			};
+
+			function onmarked(type, result) {
+				var text = '';
+				switch(type) {
+					case plus.barcode.QR:
+						text = 'QR: ';
+						break;
+					case plus.barcode.EAN13:
+						text = 'EAN13: ';
+						break;
+					case plus.barcode.EAN8:
+						text = 'EAN8: ';
+						break;
+				}
+				
+				return success(type, result);
+				
+			};
+			
+			function closeScode () {
+				scan.close();
+				mui.back();
+			}
+			
+			function success (type, result) {
+				// 扫描成功后处理
+				var rArray = result.split("_");
+				if(rArray.length === 3 && rArray[0] === 'wxb' && rArray[2] === 'enroll'){
+					scan.close();
+					var url = "../pages/details.html?id="+rArray[1];
+					window.location.replace(url);
+				} else {
+					scan.cancel();
+					mui.alert("无效二维码，请重新扫描", function () {
+						scan.start();
+					});
+				}
+			}
+
+			// 从相册中选择二维码图片   
+			function scanPicture() {
+				plus.gallery.pick(function(path) {
+					plus.barcode.scan(path, onmarked, function(error) {
+						plus.nativeUI.alert("无法识别此图片");
+					});
+				}, function(err) {
+					plus.nativeUI.alert("Failed: " + err.message);
+				});
+			}
+			
+		</script>
+	</body>
+
+</html>

@@ -1,0 +1,558 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\drawable\\login_button_bg.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\drawable\\login_button_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\drawable\\rc_ic_smiley.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\exploded-aar\\SchoolPassTheacher\\RongIMKit\\unspecified\\res\\drawable\\rc_ic_smiley.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\drawable\\general_dialog_right_btn_bg.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\drawable\\general_dialog_right_btn_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\drawable\\login_input_bg.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\drawable\\login_input_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\drawable\\btn_send.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\drawable\\btn_send.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\drawable\\bg_course_6.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\drawable\\bg_course_6.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\drawable\\rc_an_voice_receive.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\exploded-aar\\SchoolPassTheacher\\RongIMKit\\unspecified\\res\\drawable\\rc_an_voice_receive.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\drawable\\rc_sel_picsel_toolbar_send.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\exploded-aar\\SchoolPassTheacher\\RongIMKit\\unspecified\\res\\drawable\\rc_sel_picsel_toolbar_send.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\drawable\\general_dialog_bottom_btn_bg.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\drawable\\general_dialog_bottom_btn_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\drawable\\person_info_call_bg.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\drawable\\person_info_call_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\drawable\\rc_sel_picsel_toolbar_back.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\exploded-aar\\SchoolPassTheacher\\RongIMKit\\unspecified\\res\\drawable\\rc_sel_picsel_toolbar_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\drawable\\rc_bg_item.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\exploded-aar\\SchoolPassTheacher\\RongIMKit\\unspecified\\res\\drawable\\rc_bg_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\drawable\\bg_course_7.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\drawable\\bg_course_7.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\drawable\\rc_bg_editinput.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\exploded-aar\\SchoolPassTheacher\\RongIMKit\\unspecified\\res\\drawable\\rc_bg_editinput.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\drawable\\btn_first_sendnotice_smsnotice_selector.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\drawable\\btn_first_sendnotice_smsnotice_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\drawable\\tx_roundbackground.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\drawable\\tx_roundbackground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\drawable\\photo_two.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\drawable\\photo_two.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\drawable\\account_renzheng_bg.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\drawable\\account_renzheng_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\drawable\\bg_course_8.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\drawable\\bg_course_8.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\drawable\\pub_edit_bg.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\drawable\\pub_edit_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\drawable\\rc_selector_grid_camera_mask.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\exploded-aar\\SchoolPassTheacher\\RongIMKit\\unspecified\\res\\drawable\\rc_selector_grid_camera_mask.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\drawable\\notice_detail_read_bg.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\drawable\\notice_detail_read_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\drawable\\rc_switch_btn.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\exploded-aar\\SchoolPassTheacher\\RongIMKit\\unspecified\\res\\drawable\\rc_switch_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\drawable\\progressbarb.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\drawable\\progressbarb.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\drawable\\photo_four.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\drawable\\photo_four.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\drawable\\bg_course_10.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\drawable\\bg_course_10.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\drawable\\btn_cancle_add_contacts.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\drawable\\btn_cancle_add_contacts.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\drawable\\rc_ic_voice.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\exploded-aar\\SchoolPassTheacher\\RongIMKit\\unspecified\\res\\drawable\\rc_ic_voice.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\drawable\\my_messgae_bg.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\drawable\\my_messgae_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\drawable\\btn_first_sendnotice_close_selector.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\drawable\\btn_first_sendnotice_close_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\drawable\\bg_mess_no_read.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\drawable\\bg_mess_no_read.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\drawable\\side_info_bg.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\drawable\\side_info_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\drawable\\rc_btn_input.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\exploded-aar\\SchoolPassTheacher\\RongIMKit\\unspecified\\res\\drawable\\rc_btn_input.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\drawable\\btn_sure_add_contacts.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\drawable\\btn_sure_add_contacts.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\drawable\\navigationbar_textbtn.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\drawable\\navigationbar_textbtn.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\drawable\\btn_contact_invat_selector.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\drawable\\btn_contact_invat_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\drawable\\icon_cb_selected.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\drawable\\icon_cb_selected.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\drawable\\btn_first_sendnotice_open_selector.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\drawable\\btn_first_sendnotice_open_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\drawable\\bg_course_5.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\drawable\\bg_course_5.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\drawable\\side_image_btn_check.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\drawable\\side_image_btn_check.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\drawable\\check_position.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\drawable\\check_position.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\drawable\\photo_three.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\drawable\\photo_three.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\drawable\\rc_ic_admin_selector.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\exploded-aar\\SchoolPassTheacher\\RongIMKit\\unspecified\\res\\drawable\\rc_ic_admin_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\drawable\\rc_ic_no_selector.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\exploded-aar\\SchoolPassTheacher\\RongIMKit\\unspecified\\res\\drawable\\rc_ic_no_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\drawable\\indicator_bg_bottom.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\drawable\\indicator_bg_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\drawable\\side_remark_bg.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\drawable\\side_remark_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\drawable\\info_content_bg.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\drawable\\info_content_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\drawable\\side_btn_check.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\drawable\\side_btn_check.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\drawable\\ic_comment_send.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\drawable\\ic_comment_send.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\drawable\\bg_course_9.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\drawable\\bg_course_9.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\drawable\\rc_btn_send.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\exploded-aar\\SchoolPassTheacher\\RongIMKit\\unspecified\\res\\drawable\\rc_btn_send.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\drawable\\bg_course_3.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\drawable\\bg_course_3.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\drawable\\btn_side_course_reduce.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\drawable\\btn_side_course_reduce.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\drawable\\side_acy_list_bg.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\drawable\\side_acy_list_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\drawable\\examine_refush_bg.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\drawable\\examine_refush_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\drawable\\side_course_line.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\drawable\\side_course_line.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\drawable\\progress_bar_style_blue.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\drawable\\progress_bar_style_blue.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\drawable\\rc_ic_yes_selector.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\exploded-aar\\SchoolPassTheacher\\RongIMKit\\unspecified\\res\\drawable\\rc_ic_yes_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\drawable\\rc_ic_camera.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\exploded-aar\\SchoolPassTheacher\\RongIMKit\\unspecified\\res\\drawable\\rc_ic_camera.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\drawable\\bgd_relatly_line.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\drawable\\bgd_relatly_line.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\drawable\\course_progress_bar_style.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\drawable\\course_progress_bar_style.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\drawable\\rc_ic_star_selector.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\exploded-aar\\SchoolPassTheacher\\RongIMKit\\unspecified\\res\\drawable\\rc_ic_star_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\drawable\\rc_corner_style.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\exploded-aar\\SchoolPassTheacher\\RongIMKit\\unspecified\\res\\drawable\\rc_corner_style.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\drawable\\rc_ic_extend.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\exploded-aar\\SchoolPassTheacher\\RongIMKit\\unspecified\\res\\drawable\\rc_ic_extend.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\drawable\\load_progress.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\drawable\\load_progress.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\drawable\\check_half.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\drawable\\check_half.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\drawable\\rc_btn_voice.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\exploded-aar\\SchoolPassTheacher\\RongIMKit\\unspecified\\res\\drawable\\rc_btn_voice.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\drawable\\info_main_bg.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\drawable\\info_main_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\drawable\\rc_ic_location.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\exploded-aar\\SchoolPassTheacher\\RongIMKit\\unspecified\\res\\drawable\\rc_ic_location.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\drawable\\bg_course_1.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\drawable\\bg_course_1.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\drawable\\rc_ic_picture.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\exploded-aar\\SchoolPassTheacher\\RongIMKit\\unspecified\\res\\drawable\\rc_ic_picture.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\drawable\\btn_side_course_add.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\drawable\\btn_side_course_add.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\drawable\\photo_six.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\drawable\\photo_six.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\drawable\\rc_corner_voice_style.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\exploded-aar\\SchoolPassTheacher\\RongIMKit\\unspecified\\res\\drawable\\rc_corner_voice_style.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\drawable\\notice_list_press_shape.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\drawable\\notice_list_press_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\drawable\\title_pressed_bg.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\drawable\\title_pressed_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\drawable\\notice_list_shape.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\drawable\\notice_list_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\drawable\\bg_pub_toast.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\drawable\\bg_pub_toast.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\drawable\\bg_course_2.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\drawable\\bg_course_2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\drawable\\examine_adopt_bg.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\drawable\\examine_adopt_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\drawable\\rc_ic_phone.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\exploded-aar\\SchoolPassTheacher\\RongIMKit\\unspecified\\res\\drawable\\rc_ic_phone.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\drawable\\photo_seven.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\drawable\\photo_seven.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\drawable\\progress_bar_style_notice.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\drawable\\progress_bar_style_notice.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\drawable\\register_yanzheng_code_bg.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\drawable\\register_yanzheng_code_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\drawable\\rc_ic_text.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\exploded-aar\\SchoolPassTheacher\\RongIMKit\\unspecified\\res\\drawable\\rc_ic_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\drawable\\rc_progress_sending_style.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\exploded-aar\\SchoolPassTheacher\\RongIMKit\\unspecified\\res\\drawable\\rc_progress_sending_style.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\drawable\\indicator_bg_top.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\drawable\\indicator_bg_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\drawable\\check_mack_bg.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\drawable\\check_mack_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\drawable\\btn_check.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\drawable\\btn_check.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\drawable\\bg_course_4.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\drawable\\bg_course_4.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\drawable\\rc_item_list_selector.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\exploded-aar\\SchoolPassTheacher\\RongIMKit\\unspecified\\res\\drawable\\rc_item_list_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\drawable\\rc_item_top_list_selector.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\exploded-aar\\SchoolPassTheacher\\RongIMKit\\unspecified\\res\\drawable\\rc_item_top_list_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\drawable\\rc_bg_menu.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\exploded-aar\\SchoolPassTheacher\\RongIMKit\\unspecified\\res\\drawable\\rc_bg_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\drawable\\rc_an_voice_sent.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\exploded-aar\\SchoolPassTheacher\\RongIMKit\\unspecified\\res\\drawable\\rc_an_voice_sent.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\drawable\\photo_eight.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\drawable\\photo_eight.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\drawable\\side_top_window_bg.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\drawable\\side_top_window_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\drawable\\rc_ed_public_service_search_selector.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\exploded-aar\\SchoolPassTheacher\\RongIMKit\\unspecified\\res\\drawable\\rc_ed_public_service_search_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\drawable\\rc_btn_public_service_unfollow_selector.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\exploded-aar\\SchoolPassTheacher\\RongIMKit\\unspecified\\res\\drawable\\rc_btn_public_service_unfollow_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\drawable\\rc_ic_keyboard.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\exploded-aar\\SchoolPassTheacher\\RongIMKit\\unspecified\\res\\drawable\\rc_ic_keyboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\drawable\\btn_first_sendnotice_appnotice_selector.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\drawable\\btn_first_sendnotice_appnotice_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\drawable\\bg_comment_left.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\drawable\\bg_comment_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\drawable\\rc_btn_send_arrow.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\exploded-aar\\SchoolPassTheacher\\RongIMKit\\unspecified\\res\\drawable\\rc_btn_send_arrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\drawable\\rc_corner_location_style.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\exploded-aar\\SchoolPassTheacher\\RongIMKit\\unspecified\\res\\drawable\\rc_corner_location_style.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\drawable\\photo_one.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\drawable\\photo_one.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\drawable\\notice_detail_reply_bg.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\drawable\\notice_detail_reply_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\drawable\\splash_time_bg.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\drawable\\splash_time_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\drawable\\photo_five.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\drawable\\photo_five.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\drawable\\rc_sp_grid_mask.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\exploded-aar\\SchoolPassTheacher\\RongIMKit\\unspecified\\res\\drawable\\rc_sp_grid_mask.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\drawable\\progress_bar_style_webview.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\drawable\\progress_bar_style_webview.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\drawable\\general_dialog_left_btn_bg.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\drawable\\general_dialog_left_btn_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\drawable\\btn_courses_add.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\drawable\\btn_courses_add.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\drawable\\navigationbar_text_button.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\drawable\\navigationbar_text_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\drawable\\rc_btn_public_service_enter_selector.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\exploded-aar\\SchoolPassTheacher\\RongIMKit\\unspecified\\res\\drawable\\rc_btn_public_service_enter_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\drawable\\side_attence_add_check_bg.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\drawable\\side_attence_add_check_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\drawable\\ios7_btn.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\drawable\\ios7_btn.xml"
+    }
+]

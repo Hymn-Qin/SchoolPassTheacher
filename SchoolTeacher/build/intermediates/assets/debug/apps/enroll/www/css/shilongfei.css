@@ -1,0 +1,360 @@
+﻿@charset 'utf-8';
+
+
+*[v-cloak] { display: none !important; }
+
+/*顶部标题栏*/
+.custom-bar {
+	background-color: #49c433;
+    padding: 3px 10px 0;
+    height: 70px;
+    padding-top: 20px;
+}
+.custom-bar .mui-title {
+	color: #ffffff;
+}
+.custom-bar .mui-pull-right {
+	margin: 0 3px;
+}
+.custom-bar a, .custom-bar a:active {
+	color: #ffffff;
+}
+
+.mui-bar-nav~.mui-content {
+	padding-top: 70px;
+}
+
+.leftBtn{
+		position: absolute;
+		top: 20px;
+		left: 0;
+        width: 50px;
+        height: 50px;
+	}
+
+header{
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 50px;
+	z-index: 101;;
+}
+header div.navBar{
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 50px;
+	background-color: rgb(73,196,51);;
+	color: #fff;
+	text-align: center;
+	line-height: 50px;
+	font-size: 19px;
+}
+
+/*标题栏返回按钮*/
+header div.leftBtn{
+	position: absolute;
+}
+
+.slf_ho {
+	margin-left: 0;
+	margin-right: 0;
+	border-radius: 0;
+	box-shadow: none;
+	margin-top: 83px;
+}
+
+.slf_enroll_image {
+	float: left;
+	height: 40px;
+	width: 40px;
+	margin: 5px 15px;
+	border-radius: 20px;
+}
+
+.sif-enroll_name {
+	float: left;
+	height: 50px;
+	margin-right: 10px;
+	font-size: 16px;
+	color: #333333;
+	line-height: 50px;
+}
+
+.sif-enroll_phone {
+	float: right;
+	height: 50px;
+	width: 50px;
+	padding: 15px 15px;
+}
+.sif-enroll_phone img {
+	width: 20px;
+	height: 20px;
+}
+
+.sif-enroll_liner {
+	float: left;
+	height: 50px;
+	line-height: 50px;
+}
+.sif-beizhu_liner {
+	padding-bottom: 10px;
+
+}
+.sif-enroll_sex {
+	height: 15px;
+	box-sizing: border-box;
+	text-align: center;
+	margin-top: 17px;
+}
+
+.sif-enroll_line {
+	background-color: #FFFFFF;
+	margin-bottom: 0px;
+	margin-left: 15px;
+	margin-right: 15px;
+}
+
+.slf_enroll_002 {
+	background: #FFFFFF;
+	height: 50px;
+	width: 100%;
+	position: relative;
+}
+
+.slf_itme_tv {
+	font-size: 13px;
+	padding-top: 17px;
+	padding-left: 15px;
+	display: inline-block;
+	overflow: hidden;
+}
+
+.slf_itme_tv_phone {
+	display: inline-block;
+	font-size: 13px;
+	color: #999999;
+	overflow: hidden;
+	margin-left: 22px;
+}
+
+.sif-enroll_itme_phone {
+	height: 19px;
+	width: 19px;
+	float: right;
+	margin-top: 18px;
+	margin-right: 15px;
+}
+
+.slf_enroll_003 {
+	background: #FFFFFF;
+	height: 58px;
+	width: 100%;
+	position: relative;
+	margin-top: 13px;
+}
+
+.sif-enroll_itme_status {
+	font-size: 16px;
+	padding-top: 20px;
+	padding-left: 8px;
+	display: inline-block;
+	overflow: hidden;
+	color: #FF6600;
+}
+
+.slf_itme_tv_status_temp {
+	font-size: 16px;
+	padding-top: 20px;
+	padding-left: 15px;
+	display: inline-block;
+	overflow: hidden;
+}
+
+.slf_itme_detail {
+	position: relative;
+	font-size: 15px;
+	padding: 15px;
+	display: inline-block;
+	overflow: hidden;
+	width: 100%;
+	background: #FFFFFF;
+}
+.slf_itme_detail:before {
+	position: absolute;
+	display: block;
+	left: 20px;
+	top: 70px;
+	bottom: 40px;
+	border-left: 1px solid #CCCCCC;
+	content: '';
+	overflow: hidden;
+	z-index: 0;
+}
+
+.slf_itme_weizhi {
+	font-size: 15px;
+	margin-bottom: 5px;
+	display: inline-block;
+	overflow: hidden;
+	width: 100%;
+	background: #FFFFFF;
+}
+
+.slf_enroll_list {
+	width: 100%;
+	/*	padding-top: 24px;*/
+	padding-left: 5px;
+	background: none;
+}
+
+.slf_enroll_list_line {
+	padding-left: 20px;
+	/* background: url("../img/line-bg.png") repeat-y 0px 0; */
+}
+
+.slf_enroll_list_dian {
+	float: left;
+	margin-left: -5px;
+	width: 11px;
+	padding-top: 22px;
+	position: relative;
+	z-index: 2;
+}
+
+.slf_enroll_list_dian1 {
+	float: left;
+	margin-left: -4px;
+	width: 9px;
+	padding-top: 22px;
+	position: relative;
+	z-index: 2;
+}
+
+.slf_enroll_list_shenfen {
+	display: inline-block;
+	overflow: hidden;
+	font-size: 16px;
+	height: 50px;
+	padding-top: 16px;
+}
+
+.slf_enroll_list_btn {
+	background: #FFFFFF;
+	display: inline-block;
+	overflow: hidden;
+	font-size: 13px;
+	color: #FFFFFF;
+	background: #49C433;
+	float: right;
+	border-top-left-radius: 20px;
+	border-top-right-radius: 20px;
+	border-bottom-left-radius: 20px;
+	border-bottom-right-radius: 20px;
+	/* margin-right: 15px; */
+	margin-top: 10px;
+}
+
+.sif-enroll_line_1 {
+	background-color: #FFFFFF;
+	margin-top: -2px;
+	margin-bottom: 0px;
+	/* margin-right: 15px; */
+	height: 5px;
+}
+
+.slf_itme_tx {
+	font-size: 13px;
+	display: inline-block;
+	overflow: hidden;
+	width: auto;
+	background: #FFFFFF;
+}
+
+.slf_itme_tx_1 {
+	font-size: 13px;
+	display: inline-block;
+	overflow: hidden;
+	width: auto;
+	color: #999999;
+	background: #FFFFFF;
+	margin-left: 19px;
+}
+
+.slf_itme_tx_2 {
+	font-size: 13px;
+	display: inline-block;
+	overflow: hidden;
+	width: auto;
+	color: #999999;
+	background: #FFFFFF;
+	margin-left: 32px;
+}
+
+.slf_itme_img_float {
+	display: inline-block;
+	overflow: hidden;
+	width: 15px;
+	color: #999999;
+	background: #FFFFFF;
+	float: left;
+	margin-left: -40px;
+}
+.custom-card {
+	margin-left: 0;
+	margin-right: 0;
+	border-radius: 0;
+	box-shadow: none;
+}
+.custom-card .mui-card-header {
+	/*justify-content:flex-start;*/
+}
+.custom-card .mui-card-footer {
+	color: #FF9900;
+	text-align: right;
+}
+.custom-card .mui-card-footer span {
+	float:right;
+	width: 100%;
+}
+.custom-card .mui-card-footer:before, .custom-card .mui-card-header:after {
+	left:15px;
+	right:15px;
+}
+.custom-card .mui-card-content{
+	padding:10px 15px;
+}
+.custom-card table th, .custom-card .mui-card-content table td {
+	padding:2px 0;
+	text-align: left;
+	vertical-align: top;
+}
+.custom-card table th {
+	width: 80px;
+	color: #333333;
+	font-weight: normal;
+}
+.custom-card .mui-card-content table td {
+	color: #999999;
+}
+.custom-card .mui-card-footer table th, .custom-card .mui-card-footer table td {
+	font-size: 13px;
+}
+
+.mui-popup-input input {
+	padding: 0 15px;
+	border-radius: 20px;
+	margin-bottom: 10px;
+	height: 40px;
+}
+
+
+.mui-popup-button {
+	color: #666;
+}
+.mui-popup-button.mui-popup-button-bold {
+	font-weight: normal;
+	color: #49C433;
+}

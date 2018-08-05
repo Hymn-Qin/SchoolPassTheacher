@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="zh">
+
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>Document</title>
+		<link href="css/mui.min.css" rel="stylesheet" />
+
+		<!--如果需要使用font awesome 字体-->
+		<!--<link rel="stylesheet" href="css/font-awesome.min.css" />-->
+
+		<link rel="stylesheet" href="css/custom.css" />
+		<link rel="stylesheet" href="css/reportManage.css" />
+	</head>
+
+	<body>
+		<div id="app">
+			<header class="mui-bar mui-bar-nav custom-bar">
+				<a class="mui-pull-left leftBtn" @tap="closeWebview"><img src="img/navigationbar_backs.png" width="50px" height="50px"></a>
+				<h1 class="mui-title" v-cloak>{{ title }}</h1>
+				<a href="pages/search.html" class="mui-pull-right searchBtn">
+					<img src="img/navigationbar_search.png" width="20px" height="20px">
+				</a>
+
+			</header>
+
+			<div class="mui-content">
+				<div class="img-tableView">
+					<ul class="mui-table-view">
+						<li class="mui-table-view-cell mui-media">
+							<a href="plus/scode.html">
+								<img class="mui-media-object" src="img/btn_sm.png">
+								<div class="mui-media-body">
+									报到流程审核
+									<p class='mui-ellipsis'>扫码识别身份</p>
+								</div>
+							</a>
+						</li>
+						<li class="mui-table-view-cell mui-media">
+							<a href="pages/echats_file.html">
+								<img class="mui-media-object " src="img/btn_tj.png">
+								<div class="mui-media-body">
+									报到统计
+									<p class='mui-ellipsis todayReport' v-cloak>今日报到:{{ number }}人</p>
+								</div>
+							</a>
+						</li>
+					</ul>
+				</div>
+			</div>
+
+		</div>
+
+		<script src="js/jquery.min.js"></script>
+		<script src="js/mui/mui.min.js"></script>
+		<script src="js/vue/vue.min.js"></script>
+		<script src="js/config.js"></script>
+		<script src="js/common.js"></script>
+		<script type="text/javascript">
+			var token = root.getQueryString("token");
+			root.setItem({ token: token });
+			
+			if(window.plus){
+				plusReady();
+			}else{
+				document.addEventListener('plusready',plusReady,false);
+			}
+			
+			function plusReady () {
+				plus.key.addEventListener('backbutton',function(){
+					plus.runtime.quit();
+				},false);
+			}
+
+			var vm = new Vue({
+				el: "#app",
+				data: {
+					title: "迎新管理",
+					item: {
+						token: token
+					},
+					number: 0
+				},
+				created: function() {
+					this.fetchData();
+				},
+				methods: {
+					fetchData: function() {
+						var vm = this;
+						root.request("Apienroll/statisticsView", vm.item, function(data) {
+							if(data.status == 1) {
+								vm.number = data.list.today_report;
+							} else {
+								mui.alert(data.msg);
+							}
+						});
+					},
+					closeWebview: function() {
+						var isIos = root.browser.ios;
+						var isAndroid = root.browser.android;
+						if(isAndroid){
+				            plus.runtime.quit();
+				        }else if(isIos){
+				            // 通过NativeJS发送消息到原生层
+							var notiClass = plus.ios.importClass("NSNotificationCenter");
+							notiClass.defaultCenter().postNotificationNameobject("SendDataToNative", "closeWebview");
+				        }
+					}
+				}
+			});
+		</script>
+
+	</body>
+
+</html>

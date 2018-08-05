@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/white"
+    android:orientation="vertical"
+    android:paddingLeft="20dp"
+    android:paddingRight="20dp" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="7dp" >
+
+        <TextView
+            android:id="@+id/tv_attence_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="555"
+            android:textColor="@color/black_code"
+            android:textSize="17sp" />
+
+        <TextView
+            android:id="@+id/tv_attence_time"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/tv_attence_title"
+            android:text="555"
+            android:textColor="@color/repair_grey"
+            android:textSize="14sp" />
+
+        <TextView
+            android:id="@+id/tv_attence_type"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:text="出勤"
+            android:textColor="@color/black_code"
+            android:textSize="14sp" />
+    </RelativeLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0.5dp"
+        android:layout_marginTop="7dp"
+        android:background="@color/title_line" />
+
+</LinearLayout>

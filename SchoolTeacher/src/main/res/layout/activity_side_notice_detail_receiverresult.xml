@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg_main_color"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:id="@+id/liner_notice_list_whole_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:visibility="gone" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="32dp"
+            android:background="@color/col_account_bg" >
+
+            <TextView
+                android:id="@+id/tx_read_or_unread_num"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_marginLeft="20dp"
+                android:textColor="@color/black_code"
+                android:textSize="@dimen/sp_12" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="57dp"
+            android:background="@color/white" >
+
+            <EditText
+                android:id="@+id/edit_receiverresult_userkey"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_marginLeft="20dp"
+                android:background="@color/white"
+                android:drawableLeft="@drawable/navigationbar_search_b"
+                android:drawablePadding="3dp"
+                android:hint="查找"
+                android:singleLine="true"
+                android:textColor="@color/black_code"
+                android:textSize="@dimen/sp_17" 
+                />
+        </LinearLayout>
+
+        <View
+            android:layout_width="wrap_content"
+            android:layout_height="1dp"
+            android:background="@color/title_line" />
+
+        <com.yuanding.schoolteacher.view.refreshtools.SimpleSwipeRefreshLayout
+            android:id="@+id/demo_swiperefreshlayout"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:scrollbars="vertical" >
+
+            <com.yuanding.schoolteacher.view.refreshtools.PullToRefreshGridView
+                android:id="@+id/mgv_noticereceiver"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@color/white"
+                android:listSelector="@color/transparent"
+                android:numColumns="4"
+                android:paddingBottom="5dp"
+                android:paddingTop="5dp"
+                android:verticalSpacing="5dp" />
+        </com.yuanding.schoolteacher.view.refreshtools.SimpleSwipeRefreshLayout>
+    </LinearLayout>
+
+    <!-- 加载失败 -->
+
+    <include
+        android:id="@+id/message_notice_load_error"
+        layout="@layout/pub_read_faile"
+        android:visibility="gone" />
+
+    <!-- 加载中 -->
+
+    <include
+        android:id="@+id/message_notice_info_loading"
+        layout="@layout/pub_read_loading" />
+    <!-- 没有数据 -->
+
+    <include
+        android:id="@+id/message_notice_no_content"
+        layout="@layout/pub_read_no_content"
+        android:visibility="gone" />
+
+</LinearLayout>

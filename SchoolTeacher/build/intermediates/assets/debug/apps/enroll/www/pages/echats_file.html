@@ -1,0 +1,240 @@
+<!DOCTYPE html>
+<html>
+
+	<head>
+		<meta charset="UTF-8">
+		<title></title>
+		<meta name="viewport" content="width=device-width, initial-scale=1,maximum-scale=1,user-scalable=no">
+		<!--标准mui.css-->
+		<link rel="stylesheet" href="../css/mui.min.css">
+		<link rel="stylesheet" href="../css/echats.css">
+		<link rel="stylesheet" href="../css/custom.css">
+	</head>
+
+	<body>
+		
+		<header class="mui-bar mui-bar-nav custom-bar">
+				<a class="mui-action-back mui-pull-left leftBtn"><img src="../img/navigationbar_backs.png" width="50px" height="50px"></a>
+				<h1 class="mui-title">报到统计</h1>
+		
+		</header>
+
+        <div class="mui-content">
+		<div class="echats-tableView">
+			<ul class="mui-table-view mui-disabled">
+				<li class="mui-table-view-cell mui-media first">
+					<div class="firstCell">
+						<span class="firstCellLab">
+							今日报到
+						</span>
+						<p class="personNum">&nbsp;&nbsp;<span id="showPersonNum">0</span><span style="font-size:16px">&nbsp;&nbsp;人</span></p>
+					</div>
+					<div class="firstCellData reportAllNum">
+						<span class="reportNum">招生人数</span>
+						<span class="reportNum allNum">0</span>
+
+					</div>
+					<div class="firstCellData reportAlreadyNum">
+						<span class="reportNum">已报到</span>
+						<span class="reportNum alreadyNum">0</span>
+
+					</div>
+					<div class="firstCellData reportNoNum">
+						<span class="reportNum ">未报到</span>
+						<span class="reportNum noNum">0</span>
+					</div>
+				</li>
+				<li class="mui-table-view-cell mui-media">
+					<div class="chart" id="sencondCell-line" style="width: 100%;height:200px;"></div>
+				</li>
+				<li class="mui-table-view-cell mui-media">
+					<div class="chart" id="thirdCell-pie" style="width: 100%;height:200px;"></div>
+				</li>
+				<li class="mui-table-view-cell mui-media">
+					<div class="chart" id="fourthCell-pie" style="width: 100%;height:200px;"></div>
+				</li>
+		</div>
+		</div>
+		<script src="../js/jquery.min.js"></script>
+		<script src="../js/mui/mui.min.js"></script>
+		<script src="../js/vue/vue.min.js"></script>
+		<script src="../js/libs/echarts-all.js"></script>
+		<script src="../js/config.js"></script>
+		<script src="../js/common.js"></script>
+		
+	
+		<script>
+			//获取折线图的x,y数据
+			var zhexian_x = [];
+			var zhexian_y = [];
+			//获取报到状态数据
+			var reportStatus = [];
+			//获取性别比例
+			var sexAry = [];
+
+			 option = {
+				title: {
+					text: '报到统计'
+				},
+				tooltip: {
+					trigger: 'axis'
+				},
+				legend: {
+					left: 'center',
+					bottom: -5,
+					data: ['报到统计']
+				},
+				grid: {
+					left: '3%',
+					right: '5%',
+					bottom: 20,
+					top: 50,
+					containLabel: true
+				},
+				xAxis: [{
+					type: 'category',
+					boundaryGap: false,
+					data: zhexian_x
+				}],
+				yAxis: [{
+					type: 'value'
+				}],
+				series: [{
+						name: '报到统计',
+						type: 'line',
+						data: zhexian_y
+				}]
+			};
+			//报到状态饼状图
+
+			 option_status = {
+				title: {
+					text: '报到状态统计',
+					x: 'left'
+				},
+				tooltip: {
+					trigger: 'item',
+					formatter: "{a} <br/>{b} : {c} ({d}%)"
+				},
+
+			}
+			//性别比例饼状图	
+
+			 option_sex = {
+
+				title: {
+					text: '报到新生性别统计',
+					x: 'left'
+				},
+				tooltip: {
+					trigger: 'item',
+					formatter: "{a} <br/>{b} : {c} ({d}%)"
+				},
+
+			}
+
+			var byId = function(id) {
+				return document.getElementById(id);
+			};
+			var barChart = echarts.init(byId('sencondCell-line'));
+			barChart.showLoading();
+			var statusChart = echarts.init(byId("thirdCell-pie"));
+			statusChart.showLoading();
+			var sexChart = echarts.init(byId("fourthCell-pie"));
+			sexChart.showLoading();
+			//barChart.setOption(option);
+			var token = root.getItem('token');
+			
+			var vm = new Vue({
+				el :"#app",
+				data:{
+					item:{
+						token:token
+					},
+					
+				},
+				created:function(){
+					this.fetchData();
+				},
+				methods:{
+					fetchData:function(){
+						var vm = this;
+						root.request("Apienroll/statisticsView",vm.item,function(data){
+							barChart.hideLoading();
+							statusChart.hideLoading();
+							sexChart.hideLoading();
+							if(data.status == 1) {
+								zhexian_x = data.list.serven_data.date;
+								zhexian_y = data.list.serven_data.data;
+								reportStatus = data.list.report_data;
+								sexAry = data.list.male_to_female_ratio;
+								document.getElementById("showPersonNum").innerText = data.list.today_report;
+								document.getElementsByClassName("allNum")[0].innerHTML = data.list.report_detail.enroll_num;
+								document.getElementsByClassName("alreadyNum")[0].innerHTML = data.list.report_detail.report;
+								document.getElementsByClassName("noNum")[0].innerHTML = data.list.report_detail.unreport;
+			
+								data.list.report_data.forEach(function(item) {
+									
+								});
+								option.xAxis = [{
+									type: 'category',
+									boundaryGap: false,
+									data: zhexian_x
+								}];
+			
+								option.series = [{
+									name: '报到统计',
+									type: 'line',
+									data: zhexian_y
+								}];
+								option_status.series = [{
+										name: '报到状态统计',
+										type: 'pie',
+										radius: '55%',
+										center: ['50%', '60%'],
+										data: reportStatus,
+										itemStyle: {
+											emphasis: {
+												shadowBlur: 10,
+												shadowOffsetX: 0,
+												shadowColor: 'rgba(0, 0, 0, 0.5)'
+											}
+										}
+									}
+			
+								];
+			
+								option_sex.series = [{
+									name: '报到新生性别统计',
+									type: 'pie',
+									radius: '55%',
+									center: ['50%', '60%'],
+									data: sexAry,
+									itemStyle: {
+										emphasis: {
+											shadowBlur: 10,
+											shadowOffsetX: 0,
+											shadowColor: 'rgba(0, 0, 0, 0.5)'
+										}
+									}
+								}];
+								statusChart.setOption(option_status);
+								barChart.setOption(option);
+								sexChart.setOption(option_sex);
+							} else {
+								barChart.setOption(option);
+								statusChart.setOption(option_status);
+								sexChart.setOption(option_sex);
+							}
+						
+							window.onresize = barChart.resize;
+			
+						});
+					}
+				}
+			});
+
+		</script>
+	</body>
+
+</html>

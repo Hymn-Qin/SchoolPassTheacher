@@ -1,0 +1,9 @@
+# Referenced at E:\Projects\SchoolPass\SchoolPassTheacher\SchoolTeacher\build\intermediates\manifests\full\debug\AndroidManifest.xml:141
+-keep class com.yuanding.schoolteacher.A_0_App { <init>(...); }
+
+# Referenced at E:\Projects\SchoolPass\SchoolPassTheacher\SchoolTeacher\build\intermediates\manifests\full\debug\AndroidManifest.xml:1534
+-keep class io.rong.push.PushReceiver { <init>(...); }
+
+# Referenced at E:\Projects\SchoolPass\SchoolPassTheacher\SchoolTeacher\build\intermediates\manifests\full\debug\AndroidManifest.xml:1456
+-keep class io.rong.push.PushService { <init>(...); }
+

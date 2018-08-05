@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html>
+
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no" />
+		<title>迎新管理-新生查询</title>
+		<link rel="stylesheet" href="../css/mui.min.css">
+		<link rel="stylesheet" href="../css/jiaohaili.css" />
+		<link rel="stylesheet" href="../css/custom.css" />
+		<style type="text/css">
+			body {
+				overflow: hidden;
+			}
+		</style>
+	</head>
+
+	<body>
+		<div id="app">
+			/*header start */
+			<header class="mui-bar mui-bar-nav custom-bar">
+				<a class="mui-action-back mui-pull-left leftBtn" href="javascript:;"><img src="../img/navigationbar_backs.png" width="50px" height="50px"></a>
+				<h1 class="mui-title" v-cloak>新生查询 </h1>
+			</header>
+			/* header end */
+
+			<div class="search-box-set">
+				<!-- 搜索框 -->
+				<div class="mui-input-row mui-search search-box-property" v-cloak>
+					<input type="search" v-model="item.keyword" @input="doSearch" class="mui-input-clear search-box-text" placeholder="请输入学生姓名">
+				</div>
+
+				<div>
+					<!-- 描述：上下拉刷新 -->
+					<div id="pullrefresh" class="mui-scroll-wrapper">
+						<!-- 无数据页面 -->
+						<div v-if='count <= 0' v-cloak>
+							<div class="no-data-top" align="middle">
+								<img src="../img/icon_friend_image_no_people.png" alt="" width="80px" height="80sp" />
+								<p class="no-data-top-text">没有查询到该新生</p>
+							</div>
+						</div>
+						<div class="mui-scroll" v-else v-cloak>
+							<ul class="mui-table-view" id="studentlist">
+								<li class="mui-table-view-cell" v-for="item in list" @tap = "godetail(item.uniqid)">
+									<img v-if="item.sex == 0" class="mui-media-object mui-pull-left item-image-style" src="../img/icon_friend_image_woman.png">
+									<img v-else class="mui-media-object mui-pull-left item-image-style" src="../img/icon_friend_image_man.png">
+									<div class="mui-media-body item-text-style-left" v-html="item.true_name"></div>
+									<div class="mui-media-body item-text-style-right">{{item.specialty}}</div>
+								</li>
+							</ul>
+						</div>
+					</div>
+
+				</div>
+			</div>
+		</div>
+		<script src="../js/jquery.min.js"></script>
+		<script src="../js/mui/mui.min.js"></script>
+		<script src="../js/vue/vue.min.js"></script>
+		<script src="../js/config.js"></script>
+		<script src="../js/common.js"></script>
+
+		<script type="text/javascript">
+			var token = root.getItem("token");
+			var vm = new Vue({
+				el: '#app',
+				data: {
+					item: {
+						keyword: '',
+						page_no: 1,
+						token: token
+					},
+					list: [],
+					count: 0
+				},
+				created: function() {
+					var vm = this;
+				},
+				updated: function() {
+
+				},
+				mounted: function() {
+					var vm = this;
+				},
+				methods: {
+					fetchPublishData: function() {
+						var vm = this;
+						vm.item.keyword = $.trim(vm.item.keyword);
+						// 根据关键字去服务器拉取数据
+						root.request("Apienroll/searchStuByName", vm.item,
+							function(data) {
+								if(data.status == 1) {
+									if(data.list.length > 0 && vm.item.keyword.length > 0) {
+										var _resStr = JSON.stringify(data.list);
+										var _patten = new RegExp(vm.item.keyword, "gmi");
+										var _afterReg = _resStr.replace(_patten, "<span style='color:#49C433'>" + vm.item.keyword + "</span>");
+										vm.list = JSON.parse(_afterReg)
+									} else {
+										vm.list = data.list;
+									}
+//									console.log(data.list);
+									if(data.list.length <=0 || data.count <= 0) {
+//										console.log("a");
+										vm.count = 0;
+										vm.list = [];
+										vm.item.page_no = 1;
+										mui('#pullrefresh').pullRefresh().disablePullupToRefresh();
+									} else {
+//										console.log("b");
+										vm.count = data.count;
+										mui('#pullrefresh').pullRefresh().enablePullupToRefresh();
+									}
+								} else {
+									mui.alert(data.msg);
+								}
+							});
+					},
+					doSearch: function() {
+						var vm = this;
+						vm.count = 0;
+						vm.list = [];
+						vm.item.page_no = 1;
+						vm.fetchPublishData();
+					},
+					godetail: function(id) {
+						console.log("111");
+						window.location.href = "details.html?id=" + id;
+					}
+				}
+			}); /*搜索清除事件*/
+			mui(".mui-input-row").on('click', '.mui-input-clear', function() {
+				vm.count = 0;
+				vm.list = [];
+				vm.item.page_no = 1;
+				vm.item.keyword = '';
+				mui('#pullrefresh').pullRefresh().disablePullupToRefresh();
+			});
+
+			mui.init({
+				pullRefresh: {
+					container: '#pullrefresh',
+					up: {
+						contentrefresh: '正在加载...',
+						callback: pullupRefresh
+					}
+				}
+			});
+
+			/*上拉加载*/
+			function pullupRefresh() {
+				var param = {};
+				vm.item.page_no++;
+				root.request('Apienroll/searchStuByName', vm.item, function(data) {
+					setTimeout(function() {
+						if(data.status == 1) {
+							if(data.list && data.list.length > 0) { //下拉有数据
+								var dataList = data.list;
+								for(var i = 0; i < dataList.length; i++) {
+									var item = dataList[i];
+									vm.list.push(item);
+								}
+								mui('#pullrefresh').pullRefresh().endPullupToRefresh(false);
+							} else {
+								//下拉没有数据
+								mui('#pullrefresh').pullRefresh().endPullupToRefresh(true);
+							}
+
+						} else {
+							mui.alert(data.msg);
+						}
+					}, 1500);
+				});
+			}
+		</script>
+	</body>
+
+</html>

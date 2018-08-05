@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center_vertical"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/catalog"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/space_32"
+        android:background="@color/col_account_bg"
+        android:gravity="center_vertical|left"
+        android:paddingLeft="@dimen/space_19"
+        android:textColor="#333333" />
+
+    <RelativeLayout
+        android:id="@+id/content"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/space_57"
+        android:background="@drawable/my_messgae_bg"
+        android:orientation="horizontal"
+        android:paddingLeft="@dimen/space_19" >
+
+        <com.yuanding.schoolteacher.view.CircleImageView
+            android:id="@+id/iv_contact_por"
+            android:layout_width="@dimen/space_40"
+            android:layout_height="@dimen/space_40"
+            android:layout_centerVertical="true"
+           />
+
+        <TextView
+            android:id="@+id/tv_contact_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="@dimen/space_18"
+            android:layout_toRightOf="@+id/iv_contact_por"
+            android:ellipsize="end"
+            android:singleLine="true"
+            android:textColor="#333333"
+            android:textSize="17sp" />
+
+<LinearLayout
+    android:id="@+id/liner_iv_select"
+    android:layout_width="@dimen/space_57"
+    android:layout_height="fill_parent"
+    android:layout_alignParentRight="true"
+    android:layout_centerVertical="true" 
+    android:gravity="center"
+    >
+
+    <ImageView
+        android:id="@+id/iv_contact_select"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/button_radio"
+        android:visibility="gone" />
+</LinearLayout>
+      
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/white"
+        android:gravity="center_vertical"
+        android:paddingLeft="@dimen/space_19"
+        android:paddingRight="@dimen/space_19"
+        android:visibility="gone" >
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="0.4dp"
+            android:background="@color/col_account_bg" />
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView 
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:scrollbars="none"
+    >
+<LinearLayout 
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg_main_color"
+    android:orientation="vertical"
+    android:paddingLeft="34dp"
+    android:paddingRight="34dp"
+    android:paddingTop="23dp" >
+
+    <TextView
+        android:id="@+id/tv_temp_cer"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:textColor="#1EC348"
+        android:textSize="13sp" />
+
+    <TextView
+        android:id="@+id/tv_temp_server"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="13dp"
+
+        android:textColor="#999999"
+        android:textSize="13sp" />
+
+    <TextView
+        android:layout_marginTop="34dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="什么是审核中？"
+        android:textColor="#1EC348"
+        android:textSize="13sp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="13dp"
+        android:text="认证资料保存后，您的资料处于待审核状态，认证资料将会提交所选学校的管理员进行审核。"
+        android:textColor="#999999"
+        android:textSize="13sp" />
+ <TextView
+        android:layout_marginTop="34dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="审核失败怎么办？"
+        android:textColor="#1EC348"
+        android:textSize="13sp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="13dp"
+        android:text="提交的认证信息被管理员拒绝后，您将成为审核失败用户，此时，您需要按照真实情况修改认证资料，重新提交，等待审核。"
+        android:textColor="#999999"
+        android:textSize="13sp" />
+     <TextView
+        android:layout_marginTop="34dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="什么是访客状态？"
+        android:textColor="#1EC348"
+        android:textSize="13sp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="13dp"
+        android:text="实名信息不在校务平台，自主注册的用户，默认是访客状态。您需要在个人中心填写真实资料，等待审核。"
+        android:textColor="#999999"
+        android:textSize="13sp" />
+</LinearLayout>
+</ScrollView>

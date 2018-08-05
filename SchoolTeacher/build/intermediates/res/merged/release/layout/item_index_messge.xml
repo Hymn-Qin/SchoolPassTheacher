@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical" >
+	<com.yuanding.schoolteacher.view.MyListView
+         android:id="@+id/lv_message_idnex_list"
+         android:layout_width="match_parent"
+         android:layout_height="match_parent"
+         android:background="@color/white"
+         android:cacheColorHint="@color/transparent"
+         android:divider="#CCCCCC"
+         android:dividerHeight="0.2dp"
+         android:fadingEdge="none"
+         android:footerDividersEnabled="true"
+         android:headerDividersEnabled="true"
+         android:listSelector="@color/transparent"
+         android:overScrollMode="never"
+         android:scrollbars="none"
+         android:scrollingCache="false"/>
+</LinearLayout>

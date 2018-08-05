@@ -1,0 +1,24 @@
+@charset 'utf-8';
+
+*[v-cloak] { display: none !important; }
+
+/*顶部标题栏*/
+.custom-bar {
+	background-color: #49c433;
+    padding: 3px 10px 0;
+    height: 70px;
+    padding-top: 20px;
+}
+.custom-bar .mui-title {
+	color: #ffffff;
+}
+.custom-bar .mui-pull-right {
+	margin: 0 3px;
+}
+.custom-bar a, .custom-bar a:active {
+	color: #ffffff;
+}
+
+.mui-bar-nav~.mui-content {
+	padding-top: 70px;
+}

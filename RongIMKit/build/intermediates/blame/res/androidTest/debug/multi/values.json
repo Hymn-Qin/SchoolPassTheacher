@@ -1,0 +1,4428 @@
+[
+    {
+        "outputFile": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 131,
+                    "endColumn": 24,
+                    "endOffset": 4322
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 131,
+                        "endColumn": 24,
+                        "endOffset": 4322
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 132,
+                    "startColumn": 4,
+                    "startOffset": 4327,
+                    "endLine": 261,
+                    "endColumn": 12,
+                    "endOffset": 9213
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 132,
+                        "startColumn": 4,
+                        "startOffset": 4327,
+                        "endLine": 261,
+                        "endColumn": 12,
+                        "endOffset": 9213
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 262,
+                    "startColumn": 4,
+                    "startOffset": 9218,
+                    "endColumn": 66,
+                    "endOffset": 9280
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 262,
+                        "startColumn": 4,
+                        "startOffset": 9218,
+                        "endColumn": 66,
+                        "endOffset": 9280
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 263,
+                    "startColumn": 4,
+                    "startOffset": 9285,
+                    "endColumn": 60,
+                    "endOffset": 9341
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 263,
+                        "startColumn": 4,
+                        "startOffset": 9285,
+                        "endColumn": 60,
+                        "endOffset": 9341
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 264,
+                    "startColumn": 4,
+                    "startOffset": 9346,
+                    "endColumn": 53,
+                    "endOffset": 9395
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 264,
+                        "startColumn": 4,
+                        "startOffset": 9346,
+                        "endColumn": 53,
+                        "endOffset": 9395
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 265,
+                    "startColumn": 4,
+                    "startOffset": 9400,
+                    "endColumn": 44,
+                    "endOffset": 9440
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 265,
+                        "startColumn": 4,
+                        "startOffset": 9400,
+                        "endColumn": 44,
+                        "endOffset": 9440
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 266,
+                    "startColumn": 4,
+                    "startOffset": 9445,
+                    "endColumn": 61,
+                    "endOffset": 9502
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 266,
+                        "startColumn": 4,
+                        "startOffset": 9445,
+                        "endColumn": 61,
+                        "endOffset": 9502
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 267,
+                    "startColumn": 4,
+                    "startOffset": 9507,
+                    "endColumn": 45,
+                    "endOffset": 9548
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 267,
+                        "startColumn": 4,
+                        "startOffset": 9507,
+                        "endColumn": 45,
+                        "endOffset": 9548
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 268,
+                    "startColumn": 4,
+                    "startOffset": 9553,
+                    "endColumn": 56,
+                    "endOffset": 9605
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 268,
+                        "startColumn": 4,
+                        "startOffset": 9553,
+                        "endColumn": 56,
+                        "endOffset": 9605
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 269,
+                    "startColumn": 4,
+                    "startOffset": 9610,
+                    "endColumn": 48,
+                    "endOffset": 9654
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 269,
+                        "startColumn": 4,
+                        "startOffset": 9610,
+                        "endColumn": 48,
+                        "endOffset": 9654
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 270,
+                    "startColumn": 4,
+                    "startOffset": 9659,
+                    "endColumn": 45,
+                    "endOffset": 9700
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 270,
+                        "startColumn": 4,
+                        "startOffset": 9659,
+                        "endColumn": 45,
+                        "endOffset": 9700
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 271,
+                    "startColumn": 4,
+                    "startOffset": 9705,
+                    "endColumn": 52,
+                    "endOffset": 9753
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 271,
+                        "startColumn": 4,
+                        "startOffset": 9705,
+                        "endColumn": 52,
+                        "endOffset": 9753
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 272,
+                    "startColumn": 4,
+                    "startOffset": 9758,
+                    "endColumn": 54,
+                    "endOffset": 9808
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 272,
+                        "startColumn": 4,
+                        "startOffset": 9758,
+                        "endColumn": 54,
+                        "endOffset": 9808
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 273,
+                    "startColumn": 4,
+                    "startOffset": 9813,
+                    "endColumn": 46,
+                    "endOffset": 9855
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 273,
+                        "startColumn": 4,
+                        "startOffset": 9813,
+                        "endColumn": 46,
+                        "endOffset": 9855
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 274,
+                    "startColumn": 4,
+                    "startOffset": 9860,
+                    "endColumn": 52,
+                    "endOffset": 9908
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 274,
+                        "startColumn": 4,
+                        "startOffset": 9860,
+                        "endColumn": 52,
+                        "endOffset": 9908
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 275,
+                    "startColumn": 4,
+                    "startOffset": 9913,
+                    "endColumn": 48,
+                    "endOffset": 9957
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 275,
+                        "startColumn": 4,
+                        "startOffset": 9913,
+                        "endColumn": 48,
+                        "endOffset": 9957
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 276,
+                    "startColumn": 4,
+                    "startOffset": 9962,
+                    "endColumn": 53,
+                    "endOffset": 10011
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 276,
+                        "startColumn": 4,
+                        "startOffset": 9962,
+                        "endColumn": 53,
+                        "endOffset": 10011
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 277,
+                    "startColumn": 4,
+                    "startOffset": 10016,
+                    "endColumn": 52,
+                    "endOffset": 10064
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 277,
+                        "startColumn": 4,
+                        "startOffset": 10016,
+                        "endColumn": 52,
+                        "endOffset": 10064
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 278,
+                    "startColumn": 4,
+                    "startOffset": 10069,
+                    "endColumn": 93,
+                    "endOffset": 10158
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 278,
+                        "startColumn": 4,
+                        "startOffset": 10069,
+                        "endColumn": 93,
+                        "endOffset": 10158
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 279,
+                    "startColumn": 4,
+                    "startOffset": 10163,
+                    "endColumn": 60,
+                    "endOffset": 10219
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 279,
+                        "startColumn": 4,
+                        "startOffset": 10163,
+                        "endColumn": 60,
+                        "endOffset": 10219
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 280,
+                    "startColumn": 4,
+                    "startOffset": 10224,
+                    "endColumn": 55,
+                    "endOffset": 10275
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 280,
+                        "startColumn": 4,
+                        "startOffset": 10224,
+                        "endColumn": 55,
+                        "endOffset": 10275
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 281,
+                    "startColumn": 4,
+                    "startOffset": 10280,
+                    "endColumn": 63,
+                    "endOffset": 10339
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 281,
+                        "startColumn": 4,
+                        "startOffset": 10280,
+                        "endColumn": 63,
+                        "endOffset": 10339
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 282,
+                    "startColumn": 4,
+                    "startOffset": 10344,
+                    "endColumn": 51,
+                    "endOffset": 10391
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 282,
+                        "startColumn": 4,
+                        "startOffset": 10344,
+                        "endColumn": 51,
+                        "endOffset": 10391
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 283,
+                    "startColumn": 4,
+                    "startOffset": 10396,
+                    "endColumn": 64,
+                    "endOffset": 10456
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 283,
+                        "startColumn": 4,
+                        "startOffset": 10396,
+                        "endColumn": 64,
+                        "endOffset": 10456
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 284,
+                    "startColumn": 4,
+                    "startOffset": 10461,
+                    "endColumn": 63,
+                    "endOffset": 10520
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 284,
+                        "startColumn": 4,
+                        "startOffset": 10461,
+                        "endColumn": 63,
+                        "endOffset": 10520
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 285,
+                    "startColumn": 4,
+                    "startOffset": 10525,
+                    "endColumn": 64,
+                    "endOffset": 10585
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 285,
+                        "startColumn": 4,
+                        "startOffset": 10525,
+                        "endColumn": 64,
+                        "endOffset": 10585
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 286,
+                    "startColumn": 4,
+                    "startOffset": 10590,
+                    "endColumn": 69,
+                    "endOffset": 10655
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 286,
+                        "startColumn": 4,
+                        "startOffset": 10590,
+                        "endColumn": 69,
+                        "endOffset": 10655
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 287,
+                    "startColumn": 4,
+                    "startOffset": 10660,
+                    "endColumn": 68,
+                    "endOffset": 10724
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 287,
+                        "startColumn": 4,
+                        "startOffset": 10660,
+                        "endColumn": 68,
+                        "endOffset": 10724
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 288,
+                    "startColumn": 4,
+                    "startOffset": 10729,
+                    "endColumn": 65,
+                    "endOffset": 10790
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 288,
+                        "startColumn": 4,
+                        "startOffset": 10729,
+                        "endColumn": 65,
+                        "endOffset": 10790
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 289,
+                    "startColumn": 4,
+                    "startOffset": 10795,
+                    "endColumn": 47,
+                    "endOffset": 10838
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 289,
+                        "startColumn": 4,
+                        "startOffset": 10795,
+                        "endColumn": 47,
+                        "endOffset": 10838
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 290,
+                    "startColumn": 4,
+                    "startOffset": 10843,
+                    "endColumn": 55,
+                    "endOffset": 10894
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 290,
+                        "startColumn": 4,
+                        "startOffset": 10843,
+                        "endColumn": 55,
+                        "endOffset": 10894
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 291,
+                    "startColumn": 4,
+                    "startOffset": 10899,
+                    "endColumn": 76,
+                    "endOffset": 10971
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 291,
+                        "startColumn": 4,
+                        "startOffset": 10899,
+                        "endColumn": 76,
+                        "endOffset": 10971
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 292,
+                    "startColumn": 4,
+                    "startOffset": 10976,
+                    "endColumn": 57,
+                    "endOffset": 11029
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 292,
+                        "startColumn": 4,
+                        "startOffset": 10976,
+                        "endColumn": 57,
+                        "endOffset": 11029
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 293,
+                    "startColumn": 4,
+                    "startOffset": 11034,
+                    "endColumn": 56,
+                    "endOffset": 11086
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 293,
+                        "startColumn": 4,
+                        "startOffset": 11034,
+                        "endColumn": 56,
+                        "endOffset": 11086
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 294,
+                    "startColumn": 4,
+                    "startOffset": 11091,
+                    "endColumn": 47,
+                    "endOffset": 11134
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 294,
+                        "startColumn": 4,
+                        "startOffset": 11091,
+                        "endColumn": 47,
+                        "endOffset": 11134
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 295,
+                    "startColumn": 4,
+                    "startOffset": 11139,
+                    "endColumn": 52,
+                    "endOffset": 11187
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 295,
+                        "startColumn": 4,
+                        "startOffset": 11139,
+                        "endColumn": 52,
+                        "endOffset": 11187
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 296,
+                    "startColumn": 4,
+                    "startOffset": 11192,
+                    "endColumn": 48,
+                    "endOffset": 11236
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 296,
+                        "startColumn": 4,
+                        "startOffset": 11192,
+                        "endColumn": 48,
+                        "endOffset": 11236
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 297,
+                    "startColumn": 4,
+                    "startOffset": 11241,
+                    "endColumn": 53,
+                    "endOffset": 11290
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 297,
+                        "startColumn": 4,
+                        "startOffset": 11241,
+                        "endColumn": 53,
+                        "endOffset": 11290
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 298,
+                    "startColumn": 4,
+                    "startOffset": 11295,
+                    "endColumn": 54,
+                    "endOffset": 11345
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 298,
+                        "startColumn": 4,
+                        "startOffset": 11295,
+                        "endColumn": 54,
+                        "endOffset": 11345
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 314,
+                    "startColumn": 4,
+                    "startOffset": 12222,
+                    "endColumn": 61,
+                    "endOffset": 12279
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 314,
+                        "startColumn": 4,
+                        "startOffset": 12222,
+                        "endColumn": 61,
+                        "endOffset": 12279
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 315,
+                    "startColumn": 4,
+                    "startOffset": 12284,
+                    "endColumn": 61,
+                    "endOffset": 12341
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 315,
+                        "startColumn": 4,
+                        "startOffset": 12284,
+                        "endColumn": 61,
+                        "endOffset": 12341
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 316,
+                    "startColumn": 4,
+                    "startOffset": 12346,
+                    "endColumn": 64,
+                    "endOffset": 12406
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 316,
+                        "startColumn": 4,
+                        "startOffset": 12346,
+                        "endColumn": 64,
+                        "endOffset": 12406
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 317,
+                    "startColumn": 4,
+                    "startOffset": 12411,
+                    "endColumn": 41,
+                    "endOffset": 12448
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 317,
+                        "startColumn": 4,
+                        "startOffset": 12411,
+                        "endColumn": 41,
+                        "endOffset": 12448
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 318,
+                    "startColumn": 4,
+                    "startOffset": 12453,
+                    "endColumn": 36,
+                    "endOffset": 12485
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 318,
+                        "startColumn": 4,
+                        "startOffset": 12453,
+                        "endColumn": 36,
+                        "endOffset": 12485
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 319,
+                    "startColumn": 4,
+                    "startOffset": 12490,
+                    "endColumn": 42,
+                    "endOffset": 12528
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 319,
+                        "startColumn": 4,
+                        "startOffset": 12490,
+                        "endColumn": 42,
+                        "endOffset": 12528
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 320,
+                    "startColumn": 4,
+                    "startOffset": 12533,
+                    "endColumn": 38,
+                    "endOffset": 12567
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 320,
+                        "startColumn": 4,
+                        "startOffset": 12533,
+                        "endColumn": 38,
+                        "endOffset": 12567
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 321,
+                    "startColumn": 4,
+                    "startOffset": 12572,
+                    "endColumn": 40,
+                    "endOffset": 12608
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 321,
+                        "startColumn": 4,
+                        "startOffset": 12572,
+                        "endColumn": 40,
+                        "endOffset": 12608
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 322,
+                    "startColumn": 4,
+                    "startOffset": 12613,
+                    "endColumn": 39,
+                    "endOffset": 12648
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 322,
+                        "startColumn": 4,
+                        "startOffset": 12613,
+                        "endColumn": 39,
+                        "endOffset": 12648
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 323,
+                    "startColumn": 4,
+                    "startOffset": 12653,
+                    "endColumn": 52,
+                    "endOffset": 12701
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 323,
+                        "startColumn": 4,
+                        "startOffset": 12653,
+                        "endColumn": 52,
+                        "endOffset": 12701
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 324,
+                    "startColumn": 4,
+                    "startOffset": 12706,
+                    "endColumn": 54,
+                    "endOffset": 12756
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 324,
+                        "startColumn": 4,
+                        "startOffset": 12706,
+                        "endColumn": 54,
+                        "endOffset": 12756
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 325,
+                    "startColumn": 4,
+                    "startOffset": 12761,
+                    "endColumn": 51,
+                    "endOffset": 12808
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 325,
+                        "startColumn": 4,
+                        "startOffset": 12761,
+                        "endColumn": 51,
+                        "endOffset": 12808
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 326,
+                    "startColumn": 4,
+                    "startOffset": 12813,
+                    "endColumn": 49,
+                    "endOffset": 12858
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 326,
+                        "startColumn": 4,
+                        "startOffset": 12813,
+                        "endColumn": 49,
+                        "endOffset": 12858
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 327,
+                    "startColumn": 4,
+                    "startOffset": 12863,
+                    "endColumn": 50,
+                    "endOffset": 12909
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 327,
+                        "startColumn": 4,
+                        "startOffset": 12863,
+                        "endColumn": 50,
+                        "endOffset": 12909
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 328,
+                    "startColumn": 4,
+                    "startOffset": 12914,
+                    "endColumn": 40,
+                    "endOffset": 12950
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 328,
+                        "startColumn": 4,
+                        "startOffset": 12914,
+                        "endColumn": 40,
+                        "endOffset": 12950
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 329,
+                    "startColumn": 4,
+                    "startOffset": 12955,
+                    "endColumn": 37,
+                    "endOffset": 12988
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 329,
+                        "startColumn": 4,
+                        "startOffset": 12955,
+                        "endColumn": 37,
+                        "endOffset": 12988
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 330,
+                    "startColumn": 4,
+                    "startOffset": 12993,
+                    "endColumn": 36,
+                    "endOffset": 13025
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 330,
+                        "startColumn": 4,
+                        "startOffset": 12993,
+                        "endColumn": 36,
+                        "endOffset": 13025
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 331,
+                    "startColumn": 4,
+                    "startOffset": 13030,
+                    "endColumn": 35,
+                    "endOffset": 13061
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 331,
+                        "startColumn": 4,
+                        "startOffset": 13030,
+                        "endColumn": 35,
+                        "endOffset": 13061
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 332,
+                    "startColumn": 4,
+                    "startOffset": 13066,
+                    "endColumn": 47,
+                    "endOffset": 13109
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 332,
+                        "startColumn": 4,
+                        "startOffset": 13066,
+                        "endColumn": 47,
+                        "endOffset": 13109
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 333,
+                    "startColumn": 4,
+                    "startOffset": 13114,
+                    "endColumn": 42,
+                    "endOffset": 13152
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 333,
+                        "startColumn": 4,
+                        "startOffset": 13114,
+                        "endColumn": 42,
+                        "endOffset": 13152
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 334,
+                    "startColumn": 4,
+                    "startOffset": 13157,
+                    "endColumn": 44,
+                    "endOffset": 13197
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 334,
+                        "startColumn": 4,
+                        "startOffset": 13157,
+                        "endColumn": 44,
+                        "endOffset": 13197
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 335,
+                    "startColumn": 4,
+                    "startOffset": 13202,
+                    "endColumn": 37,
+                    "endOffset": 13235
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 335,
+                        "startColumn": 4,
+                        "startOffset": 13202,
+                        "endColumn": 37,
+                        "endOffset": 13235
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 336,
+                    "startColumn": 4,
+                    "startOffset": 13240,
+                    "endColumn": 37,
+                    "endOffset": 13273
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 336,
+                        "startColumn": 4,
+                        "startOffset": 13240,
+                        "endColumn": 37,
+                        "endOffset": 13273
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 337,
+                    "startColumn": 4,
+                    "startOffset": 13278,
+                    "endColumn": 37,
+                    "endOffset": 13311
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 337,
+                        "startColumn": 4,
+                        "startOffset": 13278,
+                        "endColumn": 37,
+                        "endOffset": 13311
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 338,
+                    "startColumn": 4,
+                    "startOffset": 13316,
+                    "endColumn": 37,
+                    "endOffset": 13349
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 338,
+                        "startColumn": 4,
+                        "startOffset": 13316,
+                        "endColumn": 37,
+                        "endOffset": 13349
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 339,
+                    "startColumn": 4,
+                    "startOffset": 13354,
+                    "endColumn": 37,
+                    "endOffset": 13387
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 339,
+                        "startColumn": 4,
+                        "startOffset": 13354,
+                        "endColumn": 37,
+                        "endOffset": 13387
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 340,
+                    "startColumn": 4,
+                    "startOffset": 13392,
+                    "endColumn": 37,
+                    "endOffset": 13425
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 340,
+                        "startColumn": 4,
+                        "startOffset": 13392,
+                        "endColumn": 37,
+                        "endOffset": 13425
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 341,
+                    "startColumn": 4,
+                    "startOffset": 13430,
+                    "endColumn": 37,
+                    "endOffset": 13463
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 341,
+                        "startColumn": 4,
+                        "startOffset": 13430,
+                        "endColumn": 37,
+                        "endOffset": 13463
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 342,
+                    "startColumn": 4,
+                    "startOffset": 13468,
+                    "endColumn": 37,
+                    "endOffset": 13501
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 342,
+                        "startColumn": 4,
+                        "startOffset": 13468,
+                        "endColumn": 37,
+                        "endOffset": 13501
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 343,
+                    "startColumn": 4,
+                    "startOffset": 13506,
+                    "endColumn": 37,
+                    "endOffset": 13539
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 343,
+                        "startColumn": 4,
+                        "startOffset": 13506,
+                        "endColumn": 37,
+                        "endOffset": 13539
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 344,
+                    "startColumn": 4,
+                    "startOffset": 13544,
+                    "endColumn": 37,
+                    "endOffset": 13577
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 344,
+                        "startColumn": 4,
+                        "startOffset": 13544,
+                        "endColumn": 37,
+                        "endOffset": 13577
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 345,
+                    "startColumn": 4,
+                    "startOffset": 13582,
+                    "endColumn": 49,
+                    "endOffset": 13627
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 345,
+                        "startColumn": 4,
+                        "startOffset": 13582,
+                        "endColumn": 49,
+                        "endOffset": 13627
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 346,
+                    "startColumn": 4,
+                    "startOffset": 13632,
+                    "endColumn": 38,
+                    "endOffset": 13666
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 346,
+                        "startColumn": 4,
+                        "startOffset": 13632,
+                        "endColumn": 38,
+                        "endOffset": 13666
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 347,
+                    "startColumn": 4,
+                    "startOffset": 13671,
+                    "endColumn": 36,
+                    "endOffset": 13703
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 347,
+                        "startColumn": 4,
+                        "startOffset": 13671,
+                        "endColumn": 36,
+                        "endOffset": 13703
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 348,
+                    "startColumn": 4,
+                    "startOffset": 13708,
+                    "endColumn": 36,
+                    "endOffset": 13740
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 348,
+                        "startColumn": 4,
+                        "startOffset": 13708,
+                        "endColumn": 36,
+                        "endOffset": 13740
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 349,
+                    "startColumn": 4,
+                    "startOffset": 13745,
+                    "endColumn": 36,
+                    "endOffset": 13777
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 349,
+                        "startColumn": 4,
+                        "startOffset": 13745,
+                        "endColumn": 36,
+                        "endOffset": 13777
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 350,
+                    "startColumn": 4,
+                    "startOffset": 13782,
+                    "endColumn": 51,
+                    "endOffset": 13829
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 350,
+                        "startColumn": 4,
+                        "startOffset": 13782,
+                        "endColumn": 51,
+                        "endOffset": 13829
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 351,
+                    "startColumn": 4,
+                    "startOffset": 13834,
+                    "endColumn": 35,
+                    "endOffset": 13865
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 351,
+                        "startColumn": 4,
+                        "startOffset": 13834,
+                        "endColumn": 35,
+                        "endOffset": 13865
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 352,
+                    "startColumn": 4,
+                    "startOffset": 13870,
+                    "endColumn": 35,
+                    "endOffset": 13901
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 352,
+                        "startColumn": 4,
+                        "startOffset": 13870,
+                        "endColumn": 35,
+                        "endOffset": 13901
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 353,
+                    "startColumn": 4,
+                    "startOffset": 13906,
+                    "endColumn": 37,
+                    "endOffset": 13939
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 353,
+                        "startColumn": 4,
+                        "startOffset": 13906,
+                        "endColumn": 37,
+                        "endOffset": 13939
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 354,
+                    "startColumn": 4,
+                    "startOffset": 13944,
+                    "endColumn": 40,
+                    "endOffset": 13980
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 354,
+                        "startColumn": 4,
+                        "startOffset": 13944,
+                        "endColumn": 40,
+                        "endOffset": 13980
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 355,
+                    "startColumn": 4,
+                    "startOffset": 13985,
+                    "endColumn": 46,
+                    "endOffset": 14027
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 355,
+                        "startColumn": 4,
+                        "startOffset": 13985,
+                        "endColumn": 46,
+                        "endOffset": 14027
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 356,
+                    "startColumn": 4,
+                    "startOffset": 14032,
+                    "endColumn": 40,
+                    "endOffset": 14068
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 356,
+                        "startColumn": 4,
+                        "startOffset": 14032,
+                        "endColumn": 40,
+                        "endOffset": 14068
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 357,
+                    "startColumn": 4,
+                    "startOffset": 14073,
+                    "endColumn": 44,
+                    "endOffset": 14113
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 357,
+                        "startColumn": 4,
+                        "startOffset": 14073,
+                        "endColumn": 44,
+                        "endOffset": 14113
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 358,
+                    "startColumn": 4,
+                    "startOffset": 14118,
+                    "endColumn": 37,
+                    "endOffset": 14151
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 358,
+                        "startColumn": 4,
+                        "startOffset": 14118,
+                        "endColumn": 37,
+                        "endOffset": 14151
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 359,
+                    "startColumn": 4,
+                    "startOffset": 14156,
+                    "endColumn": 36,
+                    "endOffset": 14188
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 359,
+                        "startColumn": 4,
+                        "startOffset": 14156,
+                        "endColumn": 36,
+                        "endOffset": 14188
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 360,
+                    "startColumn": 4,
+                    "startOffset": 14193,
+                    "endColumn": 43,
+                    "endOffset": 14232
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 360,
+                        "startColumn": 4,
+                        "startOffset": 14193,
+                        "endColumn": 43,
+                        "endOffset": 14232
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 361,
+                    "startColumn": 4,
+                    "startOffset": 14237,
+                    "endColumn": 36,
+                    "endOffset": 14269
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 361,
+                        "startColumn": 4,
+                        "startOffset": 14237,
+                        "endColumn": 36,
+                        "endOffset": 14269
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 362,
+                    "startColumn": 4,
+                    "startOffset": 14274,
+                    "endColumn": 37,
+                    "endOffset": 14307
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 362,
+                        "startColumn": 4,
+                        "startOffset": 14274,
+                        "endColumn": 37,
+                        "endOffset": 14307
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 363,
+                    "startColumn": 4,
+                    "startOffset": 14312,
+                    "endColumn": 44,
+                    "endOffset": 14352
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 363,
+                        "startColumn": 4,
+                        "startOffset": 14312,
+                        "endColumn": 44,
+                        "endOffset": 14352
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 364,
+                    "startColumn": 4,
+                    "startOffset": 14357,
+                    "endColumn": 35,
+                    "endOffset": 14388
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 364,
+                        "startColumn": 4,
+                        "startOffset": 14357,
+                        "endColumn": 35,
+                        "endOffset": 14388
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 365,
+                    "startColumn": 4,
+                    "startOffset": 14393,
+                    "endColumn": 46,
+                    "endOffset": 14435
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 365,
+                        "startColumn": 4,
+                        "startOffset": 14393,
+                        "endColumn": 46,
+                        "endOffset": 14435
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 366,
+                    "startColumn": 4,
+                    "startOffset": 14440,
+                    "endColumn": 52,
+                    "endOffset": 14488
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 366,
+                        "startColumn": 4,
+                        "startOffset": 14440,
+                        "endColumn": 52,
+                        "endOffset": 14488
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 367,
+                    "startColumn": 4,
+                    "startOffset": 14493,
+                    "endColumn": 39,
+                    "endOffset": 14528
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 367,
+                        "startColumn": 4,
+                        "startOffset": 14493,
+                        "endColumn": 39,
+                        "endOffset": 14528
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 368,
+                    "startColumn": 4,
+                    "startOffset": 14533,
+                    "endColumn": 61,
+                    "endOffset": 14590
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 368,
+                        "startColumn": 4,
+                        "startOffset": 14533,
+                        "endColumn": 61,
+                        "endOffset": 14590
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 369,
+                    "startColumn": 4,
+                    "startOffset": 14595,
+                    "endColumn": 69,
+                    "endOffset": 14660
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 369,
+                        "startColumn": 4,
+                        "startOffset": 14595,
+                        "endColumn": 69,
+                        "endOffset": 14660
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 370,
+                    "startColumn": 4,
+                    "startOffset": 14665,
+                    "endColumn": 70,
+                    "endOffset": 14731
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 370,
+                        "startColumn": 4,
+                        "startOffset": 14665,
+                        "endColumn": 70,
+                        "endOffset": 14731
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 371,
+                    "startColumn": 4,
+                    "startOffset": 14736,
+                    "endColumn": 49,
+                    "endOffset": 14781
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 371,
+                        "startColumn": 4,
+                        "startOffset": 14736,
+                        "endColumn": 49,
+                        "endOffset": 14781
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 372,
+                    "startColumn": 4,
+                    "startOffset": 14786,
+                    "endColumn": 47,
+                    "endOffset": 14829
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 372,
+                        "startColumn": 4,
+                        "startOffset": 14786,
+                        "endColumn": 47,
+                        "endOffset": 14829
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 373,
+                    "startColumn": 4,
+                    "startOffset": 14834,
+                    "endColumn": 54,
+                    "endOffset": 14884
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 373,
+                        "startColumn": 4,
+                        "startOffset": 14834,
+                        "endColumn": 54,
+                        "endOffset": 14884
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 374,
+                    "startColumn": 4,
+                    "startOffset": 14889,
+                    "endColumn": 56,
+                    "endOffset": 14941
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 374,
+                        "startColumn": 4,
+                        "startOffset": 14889,
+                        "endColumn": 56,
+                        "endOffset": 14941
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 375,
+                    "startColumn": 4,
+                    "startOffset": 14946,
+                    "endColumn": 54,
+                    "endOffset": 14996
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 375,
+                        "startColumn": 4,
+                        "startOffset": 14946,
+                        "endColumn": 54,
+                        "endOffset": 14996
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 376,
+                    "startColumn": 4,
+                    "startOffset": 15001,
+                    "endColumn": 51,
+                    "endOffset": 15048
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 376,
+                        "startColumn": 4,
+                        "startOffset": 15001,
+                        "endColumn": 51,
+                        "endOffset": 15048
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 377,
+                    "startColumn": 4,
+                    "startOffset": 15053,
+                    "endColumn": 71,
+                    "endOffset": 15120
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 377,
+                        "startColumn": 4,
+                        "startOffset": 15053,
+                        "endColumn": 71,
+                        "endOffset": 15120
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 378,
+                    "startColumn": 4,
+                    "startOffset": 15125,
+                    "endColumn": 74,
+                    "endOffset": 15195
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 378,
+                        "startColumn": 4,
+                        "startOffset": 15125,
+                        "endColumn": 74,
+                        "endOffset": 15195
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 379,
+                    "startColumn": 4,
+                    "startOffset": 15200,
+                    "endColumn": 78,
+                    "endOffset": 15274
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 379,
+                        "startColumn": 4,
+                        "startOffset": 15200,
+                        "endColumn": 78,
+                        "endOffset": 15274
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 380,
+                    "startColumn": 4,
+                    "startOffset": 15279,
+                    "endColumn": 71,
+                    "endOffset": 15346
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 380,
+                        "startColumn": 4,
+                        "startOffset": 15279,
+                        "endColumn": 71,
+                        "endOffset": 15346
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 381,
+                    "startColumn": 4,
+                    "startOffset": 15351,
+                    "endColumn": 71,
+                    "endOffset": 15418
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 381,
+                        "startColumn": 4,
+                        "startOffset": 15351,
+                        "endColumn": 71,
+                        "endOffset": 15418
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 382,
+                    "startColumn": 4,
+                    "startOffset": 15423,
+                    "endColumn": 69,
+                    "endOffset": 15488
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 382,
+                        "startColumn": 4,
+                        "startOffset": 15423,
+                        "endColumn": 69,
+                        "endOffset": 15488
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 383,
+                    "startColumn": 4,
+                    "startOffset": 15493,
+                    "endColumn": 70,
+                    "endOffset": 15559
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 383,
+                        "startColumn": 4,
+                        "startOffset": 15493,
+                        "endColumn": 70,
+                        "endOffset": 15559
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 384,
+                    "startColumn": 4,
+                    "startOffset": 15564,
+                    "endColumn": 66,
+                    "endOffset": 15626
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 384,
+                        "startColumn": 4,
+                        "startOffset": 15564,
+                        "endColumn": 66,
+                        "endOffset": 15626
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 385,
+                    "startColumn": 4,
+                    "startOffset": 15631,
+                    "endColumn": 73,
+                    "endOffset": 15700
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 385,
+                        "startColumn": 4,
+                        "startOffset": 15631,
+                        "endColumn": 73,
+                        "endOffset": 15700
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 386,
+                    "startColumn": 4,
+                    "startOffset": 15705,
+                    "endColumn": 68,
+                    "endOffset": 15769
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 386,
+                        "startColumn": 4,
+                        "startOffset": 15705,
+                        "endColumn": 68,
+                        "endOffset": 15769
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 387,
+                    "startColumn": 4,
+                    "startOffset": 15774,
+                    "endColumn": 62,
+                    "endOffset": 15832
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 387,
+                        "startColumn": 4,
+                        "startOffset": 15774,
+                        "endColumn": 62,
+                        "endOffset": 15832
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 388,
+                    "startColumn": 4,
+                    "startOffset": 15837,
+                    "endColumn": 79,
+                    "endOffset": 15912
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 388,
+                        "startColumn": 4,
+                        "startOffset": 15837,
+                        "endColumn": 79,
+                        "endOffset": 15912
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 389,
+                    "startColumn": 4,
+                    "startOffset": 15917,
+                    "endColumn": 70,
+                    "endOffset": 15983
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 389,
+                        "startColumn": 4,
+                        "startOffset": 15917,
+                        "endColumn": 70,
+                        "endOffset": 15983
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 390,
+                    "startColumn": 4,
+                    "startOffset": 15988,
+                    "endColumn": 70,
+                    "endOffset": 16054
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 390,
+                        "startColumn": 4,
+                        "startOffset": 15988,
+                        "endColumn": 70,
+                        "endOffset": 16054
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 391,
+                    "startColumn": 4,
+                    "startOffset": 16059,
+                    "endColumn": 66,
+                    "endOffset": 16121
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 391,
+                        "startColumn": 4,
+                        "startOffset": 16059,
+                        "endColumn": 66,
+                        "endOffset": 16121
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 392,
+                    "startColumn": 4,
+                    "startOffset": 16126,
+                    "endColumn": 68,
+                    "endOffset": 16190
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 392,
+                        "startColumn": 4,
+                        "startOffset": 16126,
+                        "endColumn": 68,
+                        "endOffset": 16190
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 393,
+                    "startColumn": 4,
+                    "startOffset": 16195,
+                    "endColumn": 73,
+                    "endOffset": 16264
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 393,
+                        "startColumn": 4,
+                        "startOffset": 16195,
+                        "endColumn": 73,
+                        "endOffset": 16264
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 394,
+                    "startColumn": 4,
+                    "startOffset": 16269,
+                    "endColumn": 43,
+                    "endOffset": 16308
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 394,
+                        "startColumn": 4,
+                        "startOffset": 16269,
+                        "endColumn": 43,
+                        "endOffset": 16308
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 395,
+                    "startColumn": 4,
+                    "startOffset": 16313,
+                    "endColumn": 59,
+                    "endOffset": 16368
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 395,
+                        "startColumn": 4,
+                        "startOffset": 16313,
+                        "endColumn": 59,
+                        "endOffset": 16368
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 396,
+                    "startColumn": 4,
+                    "startOffset": 16373,
+                    "endColumn": 61,
+                    "endOffset": 16430
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 396,
+                        "startColumn": 4,
+                        "startOffset": 16373,
+                        "endColumn": 61,
+                        "endOffset": 16430
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 397,
+                    "startColumn": 4,
+                    "startOffset": 16435,
+                    "endColumn": 43,
+                    "endOffset": 16474
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 397,
+                        "startColumn": 4,
+                        "startOffset": 16435,
+                        "endColumn": 43,
+                        "endOffset": 16474
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 398,
+                    "startColumn": 4,
+                    "startOffset": 16479,
+                    "endColumn": 47,
+                    "endOffset": 16522
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 398,
+                        "startColumn": 4,
+                        "startOffset": 16479,
+                        "endColumn": 47,
+                        "endOffset": 16522
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 399,
+                    "startColumn": 4,
+                    "startOffset": 16527,
+                    "endColumn": 60,
+                    "endOffset": 16583
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 399,
+                        "startColumn": 4,
+                        "startOffset": 16527,
+                        "endColumn": 60,
+                        "endOffset": 16583
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 400,
+                    "startColumn": 4,
+                    "startOffset": 16588,
+                    "endColumn": 62,
+                    "endOffset": 16646
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 400,
+                        "startColumn": 4,
+                        "startOffset": 16588,
+                        "endColumn": 62,
+                        "endOffset": 16646
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 401,
+                    "startColumn": 4,
+                    "startOffset": 16651,
+                    "endColumn": 43,
+                    "endOffset": 16690
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 401,
+                        "startColumn": 4,
+                        "startOffset": 16651,
+                        "endColumn": 43,
+                        "endOffset": 16690
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 402,
+                    "startColumn": 4,
+                    "startOffset": 16695,
+                    "endColumn": 80,
+                    "endOffset": 16771
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 402,
+                        "startColumn": 4,
+                        "startOffset": 16695,
+                        "endColumn": 80,
+                        "endOffset": 16771
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 403,
+                    "startColumn": 4,
+                    "startOffset": 16776,
+                    "endColumn": 80,
+                    "endOffset": 16852
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 403,
+                        "startColumn": 4,
+                        "startOffset": 16776,
+                        "endColumn": 80,
+                        "endOffset": 16852
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 404,
+                    "startColumn": 4,
+                    "startOffset": 16857,
+                    "endColumn": 71,
+                    "endOffset": 16924
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 404,
+                        "startColumn": 4,
+                        "startOffset": 16857,
+                        "endColumn": 71,
+                        "endOffset": 16924
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 405,
+                    "startColumn": 4,
+                    "startOffset": 16929,
+                    "endColumn": 88,
+                    "endOffset": 17013
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 405,
+                        "startColumn": 4,
+                        "startOffset": 16929,
+                        "endColumn": 88,
+                        "endOffset": 17013
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 406,
+                    "startColumn": 4,
+                    "startOffset": 17018,
+                    "endColumn": 87,
+                    "endOffset": 17101
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 406,
+                        "startColumn": 4,
+                        "startOffset": 17018,
+                        "endColumn": 87,
+                        "endOffset": 17101
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 407,
+                    "startColumn": 4,
+                    "startOffset": 17106,
+                    "endColumn": 77,
+                    "endOffset": 17179
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 407,
+                        "startColumn": 4,
+                        "startOffset": 17106,
+                        "endColumn": 77,
+                        "endOffset": 17179
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 408,
+                    "startColumn": 4,
+                    "startOffset": 17184,
+                    "endColumn": 80,
+                    "endOffset": 17260
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 408,
+                        "startColumn": 4,
+                        "startOffset": 17184,
+                        "endColumn": 80,
+                        "endOffset": 17260
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 409,
+                    "startColumn": 4,
+                    "startOffset": 17265,
+                    "endColumn": 85,
+                    "endOffset": 17346
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 409,
+                        "startColumn": 4,
+                        "startOffset": 17265,
+                        "endColumn": 85,
+                        "endOffset": 17346
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 410,
+                    "startColumn": 4,
+                    "startOffset": 17351,
+                    "endColumn": 60,
+                    "endOffset": 17407
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 410,
+                        "startColumn": 4,
+                        "startOffset": 17351,
+                        "endColumn": 60,
+                        "endOffset": 17407
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 411,
+                    "startColumn": 4,
+                    "startOffset": 17412,
+                    "endColumn": 53,
+                    "endOffset": 17461
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 411,
+                        "startColumn": 4,
+                        "startOffset": 17412,
+                        "endColumn": 53,
+                        "endOffset": 17461
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 412,
+                    "startColumn": 4,
+                    "startOffset": 17466,
+                    "endColumn": 51,
+                    "endOffset": 17513
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 412,
+                        "startColumn": 4,
+                        "startOffset": 17466,
+                        "endColumn": 51,
+                        "endOffset": 17513
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 413,
+                    "startColumn": 4,
+                    "startOffset": 17518,
+                    "endColumn": 65,
+                    "endOffset": 17579
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 413,
+                        "startColumn": 4,
+                        "startOffset": 17518,
+                        "endColumn": 65,
+                        "endOffset": 17579
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 414,
+                    "startColumn": 4,
+                    "startOffset": 17584,
+                    "endColumn": 64,
+                    "endOffset": 17644
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 414,
+                        "startColumn": 4,
+                        "startOffset": 17584,
+                        "endColumn": 64,
+                        "endOffset": 17644
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 415,
+                    "startColumn": 4,
+                    "startOffset": 17649,
+                    "endColumn": 59,
+                    "endOffset": 17704
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 415,
+                        "startColumn": 4,
+                        "startOffset": 17649,
+                        "endColumn": 59,
+                        "endOffset": 17704
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 416,
+                    "startColumn": 4,
+                    "startOffset": 17709,
+                    "endColumn": 61,
+                    "endOffset": 17766
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 416,
+                        "startColumn": 4,
+                        "startOffset": 17709,
+                        "endColumn": 61,
+                        "endOffset": 17766
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 417,
+                    "startColumn": 4,
+                    "startOffset": 17771,
+                    "endColumn": 54,
+                    "endOffset": 17821
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 417,
+                        "startColumn": 4,
+                        "startOffset": 17771,
+                        "endColumn": 54,
+                        "endOffset": 17821
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 418,
+                    "startColumn": 4,
+                    "startOffset": 17826,
+                    "endColumn": 49,
+                    "endOffset": 17871
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 418,
+                        "startColumn": 4,
+                        "startOffset": 17826,
+                        "endColumn": 49,
+                        "endOffset": 17871
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 419,
+                    "startColumn": 4,
+                    "startOffset": 17876,
+                    "endColumn": 44,
+                    "endOffset": 17916
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 419,
+                        "startColumn": 4,
+                        "startOffset": 17876,
+                        "endColumn": 44,
+                        "endOffset": 17916
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 420,
+                    "startColumn": 4,
+                    "startOffset": 17921,
+                    "endColumn": 48,
+                    "endOffset": 17965
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 420,
+                        "startColumn": 4,
+                        "startOffset": 17921,
+                        "endColumn": 48,
+                        "endOffset": 17965
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 421,
+                    "startColumn": 4,
+                    "startOffset": 17970,
+                    "endColumn": 60,
+                    "endOffset": 18026
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 421,
+                        "startColumn": 4,
+                        "startOffset": 17970,
+                        "endColumn": 60,
+                        "endOffset": 18026
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 422,
+                    "startColumn": 4,
+                    "startOffset": 18031,
+                    "endColumn": 57,
+                    "endOffset": 18084
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 422,
+                        "startColumn": 4,
+                        "startOffset": 18031,
+                        "endColumn": 57,
+                        "endOffset": 18084
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 423,
+                    "startColumn": 4,
+                    "startOffset": 18089,
+                    "endColumn": 57,
+                    "endOffset": 18142
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 423,
+                        "startColumn": 4,
+                        "startOffset": 18089,
+                        "endColumn": 57,
+                        "endOffset": 18142
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 424,
+                    "startColumn": 4,
+                    "startOffset": 18147,
+                    "endColumn": 60,
+                    "endOffset": 18203
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 424,
+                        "startColumn": 4,
+                        "startOffset": 18147,
+                        "endColumn": 60,
+                        "endOffset": 18203
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 425,
+                    "startColumn": 4,
+                    "startOffset": 18208,
+                    "endColumn": 61,
+                    "endOffset": 18265
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 425,
+                        "startColumn": 4,
+                        "startOffset": 18208,
+                        "endColumn": 61,
+                        "endOffset": 18265
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 426,
+                    "startColumn": 4,
+                    "startOffset": 18270,
+                    "endColumn": 57,
+                    "endOffset": 18323
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 426,
+                        "startColumn": 4,
+                        "startOffset": 18270,
+                        "endColumn": 57,
+                        "endOffset": 18323
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 427,
+                    "startColumn": 4,
+                    "startOffset": 18328,
+                    "endColumn": 60,
+                    "endOffset": 18384
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 427,
+                        "startColumn": 4,
+                        "startOffset": 18328,
+                        "endColumn": 60,
+                        "endOffset": 18384
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 428,
+                    "startColumn": 4,
+                    "startOffset": 18389,
+                    "endColumn": 57,
+                    "endOffset": 18442
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 428,
+                        "startColumn": 4,
+                        "startOffset": 18389,
+                        "endColumn": 57,
+                        "endOffset": 18442
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 429,
+                    "startColumn": 4,
+                    "startOffset": 18447,
+                    "endColumn": 38,
+                    "endOffset": 18481
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 429,
+                        "startColumn": 4,
+                        "startOffset": 18447,
+                        "endColumn": 38,
+                        "endOffset": 18481
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 430,
+                    "startColumn": 4,
+                    "startOffset": 18486,
+                    "endColumn": 51,
+                    "endOffset": 18533
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 430,
+                        "startColumn": 4,
+                        "startOffset": 18486,
+                        "endColumn": 51,
+                        "endOffset": 18533
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 431,
+                    "startColumn": 4,
+                    "startOffset": 18538,
+                    "endColumn": 58,
+                    "endOffset": 18592
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 431,
+                        "startColumn": 4,
+                        "startOffset": 18538,
+                        "endColumn": 58,
+                        "endOffset": 18592
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 432,
+                    "startColumn": 4,
+                    "startOffset": 18597,
+                    "endColumn": 51,
+                    "endOffset": 18644
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 432,
+                        "startColumn": 4,
+                        "startOffset": 18597,
+                        "endColumn": 51,
+                        "endOffset": 18644
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 433,
+                    "startColumn": 4,
+                    "startOffset": 18649,
+                    "endColumn": 56,
+                    "endOffset": 18701
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 433,
+                        "startColumn": 4,
+                        "startOffset": 18649,
+                        "endColumn": 56,
+                        "endOffset": 18701
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 434,
+                    "startColumn": 4,
+                    "startOffset": 18706,
+                    "endColumn": 63,
+                    "endOffset": 18765
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 434,
+                        "startColumn": 4,
+                        "startOffset": 18706,
+                        "endColumn": 63,
+                        "endOffset": 18765
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 435,
+                    "startColumn": 4,
+                    "startOffset": 18770,
+                    "endColumn": 68,
+                    "endOffset": 18834
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 435,
+                        "startColumn": 4,
+                        "startOffset": 18770,
+                        "endColumn": 68,
+                        "endOffset": 18834
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 436,
+                    "startColumn": 4,
+                    "startOffset": 18839,
+                    "endColumn": 59,
+                    "endOffset": 18894
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 436,
+                        "startColumn": 4,
+                        "startOffset": 18839,
+                        "endColumn": 59,
+                        "endOffset": 18894
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 437,
+                    "startColumn": 4,
+                    "startOffset": 18899,
+                    "endColumn": 57,
+                    "endOffset": 18952
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 437,
+                        "startColumn": 4,
+                        "startOffset": 18899,
+                        "endColumn": 57,
+                        "endOffset": 18952
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 438,
+                    "startColumn": 4,
+                    "startOffset": 18957,
+                    "endColumn": 57,
+                    "endOffset": 19010
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 438,
+                        "startColumn": 4,
+                        "startOffset": 18957,
+                        "endColumn": 57,
+                        "endOffset": 19010
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 439,
+                    "startColumn": 4,
+                    "startOffset": 19015,
+                    "endColumn": 58,
+                    "endOffset": 19069
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 439,
+                        "startColumn": 4,
+                        "startOffset": 19015,
+                        "endColumn": 58,
+                        "endOffset": 19069
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 440,
+                    "startColumn": 4,
+                    "startOffset": 19074,
+                    "endColumn": 69,
+                    "endOffset": 19139
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 440,
+                        "startColumn": 4,
+                        "startOffset": 19074,
+                        "endColumn": 69,
+                        "endOffset": 19139
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 441,
+                    "startColumn": 4,
+                    "startOffset": 19144,
+                    "endColumn": 59,
+                    "endOffset": 19199
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 441,
+                        "startColumn": 4,
+                        "startOffset": 19144,
+                        "endColumn": 59,
+                        "endOffset": 19199
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 442,
+                    "startColumn": 4,
+                    "startOffset": 19204,
+                    "endColumn": 65,
+                    "endOffset": 19265
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 442,
+                        "startColumn": 4,
+                        "startOffset": 19204,
+                        "endColumn": 65,
+                        "endOffset": 19265
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 443,
+                    "startColumn": 4,
+                    "startOffset": 19270,
+                    "endColumn": 74,
+                    "endOffset": 19340
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 443,
+                        "startColumn": 4,
+                        "startOffset": 19270,
+                        "endColumn": 74,
+                        "endOffset": 19340
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 444,
+                    "startColumn": 4,
+                    "startOffset": 19345,
+                    "endColumn": 55,
+                    "endOffset": 19396
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 444,
+                        "startColumn": 4,
+                        "startOffset": 19345,
+                        "endColumn": 55,
+                        "endOffset": 19396
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 445,
+                    "startColumn": 4,
+                    "startOffset": 19401,
+                    "endColumn": 66,
+                    "endOffset": 19463
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 445,
+                        "startColumn": 4,
+                        "startOffset": 19401,
+                        "endColumn": 66,
+                        "endOffset": 19463
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 446,
+                    "startColumn": 4,
+                    "startOffset": 19468,
+                    "endColumn": 77,
+                    "endOffset": 19541
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 446,
+                        "startColumn": 4,
+                        "startOffset": 19468,
+                        "endColumn": 77,
+                        "endOffset": 19541
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 447,
+                    "startColumn": 4,
+                    "startOffset": 19546,
+                    "endColumn": 64,
+                    "endOffset": 19606
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 447,
+                        "startColumn": 4,
+                        "startOffset": 19546,
+                        "endColumn": 64,
+                        "endOffset": 19606
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 448,
+                    "startColumn": 4,
+                    "startOffset": 19611,
+                    "endColumn": 48,
+                    "endOffset": 19655
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 448,
+                        "startColumn": 4,
+                        "startOffset": 19611,
+                        "endColumn": 48,
+                        "endOffset": 19655
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 449,
+                    "startColumn": 4,
+                    "startOffset": 19660,
+                    "endColumn": 57,
+                    "endOffset": 19713
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 449,
+                        "startColumn": 4,
+                        "startOffset": 19660,
+                        "endColumn": 57,
+                        "endOffset": 19713
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 450,
+                    "startColumn": 4,
+                    "startOffset": 19718,
+                    "endColumn": 48,
+                    "endOffset": 19762
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 450,
+                        "startColumn": 4,
+                        "startOffset": 19718,
+                        "endColumn": 48,
+                        "endOffset": 19762
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 451,
+                    "startColumn": 4,
+                    "startOffset": 19767,
+                    "endColumn": 57,
+                    "endOffset": 19820
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 451,
+                        "startColumn": 4,
+                        "startOffset": 19767,
+                        "endColumn": 57,
+                        "endOffset": 19820
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 452,
+                    "startColumn": 4,
+                    "startOffset": 19825,
+                    "endColumn": 56,
+                    "endOffset": 19877
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 452,
+                        "startColumn": 4,
+                        "startOffset": 19825,
+                        "endColumn": 56,
+                        "endOffset": 19877
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 453,
+                    "startColumn": 4,
+                    "startOffset": 19882,
+                    "endColumn": 48,
+                    "endOffset": 19926
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 453,
+                        "startColumn": 4,
+                        "startOffset": 19882,
+                        "endColumn": 48,
+                        "endOffset": 19926
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 454,
+                    "startColumn": 4,
+                    "startOffset": 19931,
+                    "endColumn": 62,
+                    "endOffset": 19989
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 454,
+                        "startColumn": 4,
+                        "startOffset": 19931,
+                        "endColumn": 62,
+                        "endOffset": 19989
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 455,
+                    "startColumn": 4,
+                    "startOffset": 19994,
+                    "endColumn": 55,
+                    "endOffset": 20045
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 455,
+                        "startColumn": 4,
+                        "startOffset": 19994,
+                        "endColumn": 55,
+                        "endOffset": 20045
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 456,
+                    "startColumn": 4,
+                    "startOffset": 20050,
+                    "endColumn": 48,
+                    "endOffset": 20094
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 456,
+                        "startColumn": 4,
+                        "startOffset": 20050,
+                        "endColumn": 48,
+                        "endOffset": 20094
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 457,
+                    "startColumn": 4,
+                    "startOffset": 20099,
+                    "endColumn": 56,
+                    "endOffset": 20151
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 457,
+                        "startColumn": 4,
+                        "startOffset": 20099,
+                        "endColumn": 56,
+                        "endOffset": 20151
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 458,
+                    "startColumn": 4,
+                    "startOffset": 20156,
+                    "endColumn": 64,
+                    "endOffset": 20216
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 458,
+                        "startColumn": 4,
+                        "startOffset": 20156,
+                        "endColumn": 64,
+                        "endOffset": 20216
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 459,
+                    "startColumn": 4,
+                    "startOffset": 20221,
+                    "endColumn": 53,
+                    "endOffset": 20270
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 459,
+                        "startColumn": 4,
+                        "startOffset": 20221,
+                        "endColumn": 53,
+                        "endOffset": 20270
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 460,
+                    "startColumn": 4,
+                    "startOffset": 20275,
+                    "endColumn": 63,
+                    "endOffset": 20334
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 460,
+                        "startColumn": 4,
+                        "startOffset": 20275,
+                        "endColumn": 63,
+                        "endOffset": 20334
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 461,
+                    "startColumn": 4,
+                    "startOffset": 20339,
+                    "endColumn": 48,
+                    "endOffset": 20383
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 461,
+                        "startColumn": 4,
+                        "startOffset": 20339,
+                        "endColumn": 48,
+                        "endOffset": 20383
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 462,
+                    "startColumn": 4,
+                    "startOffset": 20388,
+                    "endColumn": 47,
+                    "endOffset": 20431
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 462,
+                        "startColumn": 4,
+                        "startOffset": 20388,
+                        "endColumn": 47,
+                        "endOffset": 20431
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 463,
+                    "startColumn": 4,
+                    "startOffset": 20436,
+                    "endColumn": 50,
+                    "endOffset": 20482
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 463,
+                        "startColumn": 4,
+                        "startOffset": 20436,
+                        "endColumn": 50,
+                        "endOffset": 20482
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 464,
+                    "startColumn": 4,
+                    "startOffset": 20487,
+                    "endColumn": 48,
+                    "endOffset": 20531
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 464,
+                        "startColumn": 4,
+                        "startOffset": 20487,
+                        "endColumn": 48,
+                        "endOffset": 20531
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 465,
+                    "startColumn": 4,
+                    "startOffset": 20536,
+                    "endColumn": 64,
+                    "endOffset": 20596
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 465,
+                        "startColumn": 4,
+                        "startOffset": 20536,
+                        "endColumn": 64,
+                        "endOffset": 20596
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 466,
+                    "startColumn": 4,
+                    "startOffset": 20601,
+                    "endColumn": 64,
+                    "endOffset": 20661
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 466,
+                        "startColumn": 4,
+                        "startOffset": 20601,
+                        "endColumn": 64,
+                        "endOffset": 20661
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 467,
+                    "startColumn": 4,
+                    "startOffset": 20666,
+                    "endColumn": 59,
+                    "endOffset": 20721
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 467,
+                        "startColumn": 4,
+                        "startOffset": 20666,
+                        "endColumn": 59,
+                        "endOffset": 20721
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 468,
+                    "startColumn": 4,
+                    "startOffset": 20726,
+                    "endColumn": 57,
+                    "endOffset": 20779
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 468,
+                        "startColumn": 4,
+                        "startOffset": 20726,
+                        "endColumn": 57,
+                        "endOffset": 20779
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 469,
+                    "startColumn": 4,
+                    "startOffset": 20784,
+                    "endColumn": 61,
+                    "endOffset": 20841
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 469,
+                        "startColumn": 4,
+                        "startOffset": 20784,
+                        "endColumn": 61,
+                        "endOffset": 20841
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 470,
+                    "startColumn": 4,
+                    "startOffset": 20846,
+                    "endColumn": 56,
+                    "endOffset": 20898
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 470,
+                        "startColumn": 4,
+                        "startOffset": 20846,
+                        "endColumn": 56,
+                        "endOffset": 20898
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 471,
+                    "startColumn": 4,
+                    "startOffset": 20903,
+                    "endColumn": 44,
+                    "endOffset": 20943
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 471,
+                        "startColumn": 4,
+                        "startOffset": 20903,
+                        "endColumn": 44,
+                        "endOffset": 20943
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 472,
+                    "startColumn": 4,
+                    "startOffset": 20948,
+                    "endColumn": 75,
+                    "endOffset": 21019
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 472,
+                        "startColumn": 4,
+                        "startOffset": 20948,
+                        "endColumn": 75,
+                        "endOffset": 21019
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 473,
+                    "startColumn": 4,
+                    "startOffset": 21024,
+                    "endColumn": 51,
+                    "endOffset": 21071
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 473,
+                        "startColumn": 4,
+                        "startOffset": 21024,
+                        "endColumn": 51,
+                        "endOffset": 21071
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 474,
+                    "startColumn": 4,
+                    "startOffset": 21076,
+                    "endColumn": 60,
+                    "endOffset": 21132
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 474,
+                        "startColumn": 4,
+                        "startOffset": 21076,
+                        "endColumn": 60,
+                        "endOffset": 21132
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 475,
+                    "startColumn": 4,
+                    "startOffset": 21137,
+                    "endColumn": 60,
+                    "endOffset": 21193
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 475,
+                        "startColumn": 4,
+                        "startOffset": 21137,
+                        "endColumn": 60,
+                        "endOffset": 21193
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 476,
+                    "startColumn": 4,
+                    "startOffset": 21198,
+                    "endColumn": 68,
+                    "endOffset": 21262
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 476,
+                        "startColumn": 4,
+                        "startOffset": 21198,
+                        "endColumn": 68,
+                        "endOffset": 21262
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 477,
+                    "startColumn": 4,
+                    "startOffset": 21267,
+                    "endColumn": 63,
+                    "endOffset": 21326
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 477,
+                        "startColumn": 4,
+                        "startOffset": 21267,
+                        "endColumn": 63,
+                        "endOffset": 21326
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 478,
+                    "startColumn": 4,
+                    "startOffset": 21331,
+                    "endColumn": 64,
+                    "endOffset": 21391
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 478,
+                        "startColumn": 4,
+                        "startOffset": 21331,
+                        "endColumn": 64,
+                        "endOffset": 21391
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 479,
+                    "startColumn": 4,
+                    "startOffset": 21396,
+                    "endColumn": 73,
+                    "endOffset": 21465
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 479,
+                        "startColumn": 4,
+                        "startOffset": 21396,
+                        "endColumn": 73,
+                        "endOffset": 21465
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 480,
+                    "startColumn": 4,
+                    "startOffset": 21470,
+                    "endColumn": 77,
+                    "endOffset": 21543
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 480,
+                        "startColumn": 4,
+                        "startOffset": 21470,
+                        "endColumn": 77,
+                        "endOffset": 21543
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 481,
+                    "startColumn": 4,
+                    "startOffset": 21548,
+                    "endColumn": 46,
+                    "endOffset": 21590
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 481,
+                        "startColumn": 4,
+                        "startOffset": 21548,
+                        "endColumn": 46,
+                        "endOffset": 21590
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 482,
+                    "startColumn": 4,
+                    "startOffset": 21595,
+                    "endColumn": 49,
+                    "endOffset": 21640
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 482,
+                        "startColumn": 4,
+                        "startOffset": 21595,
+                        "endColumn": 49,
+                        "endOffset": 21640
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 483,
+                    "startColumn": 4,
+                    "startOffset": 21645,
+                    "endColumn": 58,
+                    "endOffset": 21699
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 483,
+                        "startColumn": 4,
+                        "startOffset": 21645,
+                        "endColumn": 58,
+                        "endOffset": 21699
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 484,
+                    "startColumn": 4,
+                    "startOffset": 21704,
+                    "endColumn": 53,
+                    "endOffset": 21753
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 484,
+                        "startColumn": 4,
+                        "startOffset": 21704,
+                        "endColumn": 53,
+                        "endOffset": 21753
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 485,
+                    "startColumn": 4,
+                    "startOffset": 21758,
+                    "endColumn": 50,
+                    "endOffset": 21804
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 485,
+                        "startColumn": 4,
+                        "startOffset": 21758,
+                        "endColumn": 50,
+                        "endOffset": 21804
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 486,
+                    "startColumn": 4,
+                    "startOffset": 21809,
+                    "endColumn": 50,
+                    "endOffset": 21855
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 486,
+                        "startColumn": 4,
+                        "startOffset": 21809,
+                        "endColumn": 50,
+                        "endOffset": 21855
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 487,
+                    "startColumn": 4,
+                    "startOffset": 21860,
+                    "endColumn": 49,
+                    "endOffset": 21905
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 487,
+                        "startColumn": 4,
+                        "startOffset": 21860,
+                        "endColumn": 49,
+                        "endOffset": 21905
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 488,
+                    "startColumn": 4,
+                    "startOffset": 21910,
+                    "endColumn": 62,
+                    "endOffset": 21968
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 488,
+                        "startColumn": 4,
+                        "startOffset": 21910,
+                        "endColumn": 62,
+                        "endOffset": 21968
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 489,
+                    "startColumn": 4,
+                    "startOffset": 21973,
+                    "endColumn": 42,
+                    "endOffset": 22011
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 489,
+                        "startColumn": 4,
+                        "startOffset": 21973,
+                        "endColumn": 42,
+                        "endOffset": 22011
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 490,
+                    "startColumn": 4,
+                    "startOffset": 22016,
+                    "endColumn": 36,
+                    "endOffset": 22048
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 490,
+                        "startColumn": 4,
+                        "startOffset": 22016,
+                        "endColumn": 36,
+                        "endOffset": 22048
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 491,
+                    "startColumn": 4,
+                    "startOffset": 22053,
+                    "endColumn": 55,
+                    "endOffset": 22104
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 491,
+                        "startColumn": 4,
+                        "startOffset": 22053,
+                        "endColumn": 55,
+                        "endOffset": 22104
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 492,
+                    "startColumn": 4,
+                    "startOffset": 22109,
+                    "endLine": 500,
+                    "endColumn": 12,
+                    "endOffset": 22735
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 492,
+                        "startColumn": 4,
+                        "startOffset": 22109,
+                        "endLine": 500,
+                        "endColumn": 12,
+                        "endOffset": 22735
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 501,
+                    "startColumn": 4,
+                    "startOffset": 22740,
+                    "endLine": 504,
+                    "endColumn": 12,
+                    "endOffset": 22957
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 501,
+                        "startColumn": 4,
+                        "startOffset": 22740,
+                        "endLine": 504,
+                        "endColumn": 12,
+                        "endOffset": 22957
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 505,
+                    "startColumn": 4,
+                    "startOffset": 22962,
+                    "endLine": 508,
+                    "endColumn": 12,
+                    "endOffset": 23165
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 505,
+                        "startColumn": 4,
+                        "startOffset": 22962,
+                        "endLine": 508,
+                        "endColumn": 12,
+                        "endOffset": 23165
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 509,
+                    "startColumn": 4,
+                    "startOffset": 23170,
+                    "endLine": 513,
+                    "endColumn": 12,
+                    "endOffset": 23433
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 509,
+                        "startColumn": 4,
+                        "startOffset": 23170,
+                        "endLine": 513,
+                        "endColumn": 12,
+                        "endOffset": 23433
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 514,
+                    "startColumn": 4,
+                    "startOffset": 23438,
+                    "endLine": 522,
+                    "endColumn": 12,
+                    "endOffset": 23928
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 514,
+                        "startColumn": 4,
+                        "startOffset": 23438,
+                        "endLine": 522,
+                        "endColumn": 12,
+                        "endOffset": 23928
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 523,
+                    "startColumn": 4,
+                    "startOffset": 23933,
+                    "endLine": 525,
+                    "endColumn": 12,
+                    "endOffset": 24011
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 523,
+                        "startColumn": 4,
+                        "startOffset": 23933,
+                        "endLine": 525,
+                        "endColumn": 12,
+                        "endOffset": 24011
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 526,
+                    "startColumn": 4,
+                    "startOffset": 24016,
+                    "endLine": 528,
+                    "endColumn": 12,
+                    "endOffset": 24093
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 526,
+                        "startColumn": 4,
+                        "startOffset": 24016,
+                        "endLine": 528,
+                        "endColumn": 12,
+                        "endOffset": 24093
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 529,
+                    "startColumn": 4,
+                    "startOffset": 24098,
+                    "endLine": 531,
+                    "endColumn": 12,
+                    "endOffset": 24271
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 529,
+                        "startColumn": 4,
+                        "startOffset": 24098,
+                        "endLine": 531,
+                        "endColumn": 12,
+                        "endOffset": 24271
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 532,
+                    "startColumn": 4,
+                    "startOffset": 24276,
+                    "endLine": 534,
+                    "endColumn": 12,
+                    "endOffset": 24354
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 532,
+                        "startColumn": 4,
+                        "startOffset": 24276,
+                        "endLine": 534,
+                        "endColumn": 12,
+                        "endOffset": 24354
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 535,
+                    "startColumn": 4,
+                    "startOffset": 24359,
+                    "endLine": 539,
+                    "endColumn": 12,
+                    "endOffset": 24642
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 535,
+                        "startColumn": 4,
+                        "startOffset": 24359,
+                        "endLine": 539,
+                        "endColumn": 12,
+                        "endOffset": 24642
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 540,
+                    "startColumn": 4,
+                    "startOffset": 24647,
+                    "endLine": 542,
+                    "endColumn": 12,
+                    "endOffset": 24724
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 540,
+                        "startColumn": 4,
+                        "startOffset": 24647,
+                        "endLine": 542,
+                        "endColumn": 12,
+                        "endOffset": 24724
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 543,
+                    "startColumn": 4,
+                    "startOffset": 24729,
+                    "endLine": 550,
+                    "endColumn": 12,
+                    "endOffset": 25186
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 543,
+                        "startColumn": 4,
+                        "startOffset": 24729,
+                        "endLine": 550,
+                        "endColumn": 12,
+                        "endOffset": 25186
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 551,
+                    "startColumn": 4,
+                    "startOffset": 25191,
+                    "endLine": 555,
+                    "endColumn": 12,
+                    "endOffset": 25440
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 551,
+                        "startColumn": 4,
+                        "startOffset": 25191,
+                        "endLine": 555,
+                        "endColumn": 12,
+                        "endOffset": 25440
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 556,
+                    "startColumn": 4,
+                    "startOffset": 25445,
+                    "endLine": 560,
+                    "endColumn": 12,
+                    "endOffset": 25692
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\RongIMKit\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 556,
+                        "startColumn": 4,
+                        "startOffset": 25445,
+                        "endLine": 560,
+                        "endColumn": 12,
+                        "endOffset": 25692
+                    }
+                }
+            }
+        ]
+    }
+]

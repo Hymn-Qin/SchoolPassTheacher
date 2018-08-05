@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#F8F8F8"
+    android:orientation="vertical"
+    android:paddingLeft="@dimen/space_20"
+    android:paddingRight="@dimen/space_20" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/space_1"
+        android:layout_marginTop="@dimen/space_20"
+        android:background="@drawable/side_acy_list_bg"
+        android:orientation="vertical"
+        android:padding="@dimen/space_17" >
+
+        <RelativeLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content" >
+
+            <ImageView
+                android:id="@+id/tv_acy_sms"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:visibility="gone" />
+
+            <TextView
+                android:id="@+id/tv_message_status"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_centerVertical="true"
+                android:visibility="gone" />
+
+            <TextView
+                android:id="@+id/tv_acy_name"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="3dp"
+                android:layout_marginTop="2dip"
+                android:layout_toRightOf="@+id/tv_message_status"
+                android:ellipsize="end"
+                android:singleLine="true"
+                android:textColor="#000000"
+                android:textSize="@dimen/space_17" />
+        </RelativeLayout>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/space_10" >
+
+            <ImageView
+                android:id="@+id/iv_acy_lsit_img"
+                android:layout_width="@dimen/space_60"
+                android:layout_height="@dimen/space_60"
+                android:layout_marginRight="@dimen/space_10"
+                android:scaleType="centerCrop"
+                android:visibility="gone" />
+
+            <TextView
+                android:id="@+id/tv_sent_content"
+                android:layout_width="0dp"
+                android:layout_height="fill_parent"
+                android:layout_marginLeft="@dimen/space_2"
+                android:layout_weight="1"
+                android:ellipsize="end"
+                android:gravity="center_vertical"
+                android:maxLines="3"
+                android:textColor="#999999"
+                android:textSize="@dimen/space_13" />
+        </LinearLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/space_16" >
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_centerVertical="true"
+                android:gravity="center_vertical"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:id="@+id/tv_join_end_time_txt"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="4dp"
+                    android:text="将于"
+                    android:textColor="#999999"
+                    android:textSize="@dimen/space_13"
+                    android:visibility="gone" />
+
+                <TextView
+                    android:id="@+id/tv_join_end_time"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="@dimen/space_2"
+                    android:layout_marginRight="@dimen/space_2"
+                    android:text="09/09 15:34"
+                    android:textColor="#999999"
+                    android:textSize="@dimen/space_13" />
+
+                <TextView
+                    android:id="@+id/tv_join_time_txt"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="6dp"
+                    android:text="发出"
+                    android:textColor="#999999"
+                    android:textSize="@dimen/space_13"
+                    android:visibility="gone" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/itme_side_liner_sms"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:gravity="center_vertical"
+                android:orientation="horizontal"
+                android:visibility="gone" >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="发送："
+                    android:textColor="#999999"
+                    android:textSize="10sp" />
+
+                <TextView
+                    android:id="@+id/tv_acy_list_join_count_sms"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="5dp"
+                    android:textColor="#1EC348"
+                    android:textSize="10sp" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    android:text="收到："
+                    android:textColor="#999999"
+                    android:textSize="10sp" />
+
+                <TextView
+                    android:id="@+id/tv_acy_list_comment_count_sms"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="5dp"
+                    android:textColor="#1EC348"
+                    android:textSize="10sp" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                
+                android:gravity="center_vertical"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:id="@+id/tv_sent_sign"
+                    android:layout_marginLeft="@dimen/space_140"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:singleLine="true"
+                    android:textColor="#49C433"
+                    android:textSize="@dimen/space_13" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/itme_side_liner"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:gravity="center_vertical"
+                android:orientation="horizontal"
+                android:visibility="gone" >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="已读："
+                    android:textColor="#999999"
+                    android:textSize="10sp" />
+
+                <TextView
+                    android:id="@+id/tv_acy_list_join_count"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="5dp"
+                    android:textColor="#1EC348"
+                    android:textSize="10sp" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    android:text="未读："
+                    android:textColor="#999999"
+                    android:textSize="10sp" />
+
+                <TextView
+                    android:id="@+id/tv_acy_list_comment_count"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="5dp"
+                    android:textColor="#1EC348"
+                    android:textSize="10sp" />
+
+                <TextView
+                    android:id="@+id/tv_acy_reply_h"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    android:text="回复："
+                    android:textColor="#999999"
+                    android:textSize="10sp" />
+
+                <TextView
+                    android:id="@+id/tv_acy_list_reply_count"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="5dp"
+                    android:textColor="#1EC348"
+                    android:textSize="10sp" />
+            </LinearLayout>
+        </RelativeLayout>
+    </LinearLayout>
+
+    <View
+        android:id="@+id/view_bottom"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/space_20" />
+
+</LinearLayout>

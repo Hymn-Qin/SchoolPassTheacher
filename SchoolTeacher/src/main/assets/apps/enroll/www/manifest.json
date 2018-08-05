@@ -1,0 +1,80 @@
+{
+	"@platforms": [
+		"android",
+		"iPhone",
+		"iPad"
+	],
+	"id": "enroll",
+	"name": "enroll",
+	"version": {
+		"name": "2.1.2",
+		"code": "20102"
+	},
+	"description": "HTML5 Plus能力演示",
+	"icons": {
+		"144": "icon.png"
+	},
+	"launch_path": "www/index.html",
+	"developer": {
+		"name": "1549432048@qq.com",
+		"email": "1549432048@qq.com",
+		"url": "http://www.dcloud.io"
+	},
+	"orientation": [
+		"portrait"
+	],
+	"permissions": {
+		"Cache": {
+			"description": "缓存管理"
+		},
+		"Console": {
+			"description": "调试输出日志"
+		},
+		"Events": {
+			"description": "扩展事件"
+		},
+		"Zip": {},
+		"File": {},
+		"Audio": {},
+		"Camera": {},
+		"Device": {},
+		"Storage": {},
+		"Gallery": {},
+		"Runtime": {},
+		"Webview": {},
+		"Barcode": {},
+		"Uploader": {},
+		"NativeUI": {},
+		"Contacts": {},
+		"Navigator": {},
+		"Proximity": {},
+		"NativeObj": {},
+		"Messaging": {},
+		"Invocation": {},
+		"Downloader": {},
+		"Orientation": {},
+		"Geolocation": {},
+		"Accelerometer": {},
+		"XMLHttpRequest": {},
+		"Maps": {},
+		"Speech": {}
+	},
+	"plus": {
+		"distribute": {
+			"google": {
+				"permissions": ["<uses-permission android:name=\"android.permission.RECORD_AUDIO\"/>","<uses-permission android:name=\"android.permission.GET_ACCOUNTS\"/>","<uses-permission android:name=\"android.permission.CHANGE_NETWORK_STATE\"/>","<uses-permission android:name=\"android.permission.MODIFY_AUDIO_SETTINGS\"/>","<uses-permission android:name=\"android.permission.SEND_SMS\"/>","<uses-permission android:name=\"android.permission.MOUNT_UNMOUNT_FILESYSTEMS\"/>","<uses-permission android:name=\"android.permission.READ_CONTACTS\"/>","<uses-permission android:name=\"android.permission.CHANGE_WIFI_STATE\"/>","<uses-permission android:name=\"android.permission.READ_PHONE_STATE\"/>","<uses-permission android:name=\"android.permission.VIBRATE\"/>","<uses-permission android:name=\"android.permission.READ_LOGS\"/>","<uses-permission android:name=\"android.permission.WAKE_LOCK\"/>","<uses-permission android:name=\"android.permission.CALL_PHONE\"/>","<uses-permission android:name=\"android.permission.FLASHLIGHT\"/>","<uses-permission android:name=\"android.permission.ACCESS_WIFI_STATE\"/>","<uses-permission android:name=\"android.permission.ACCESS_COARSE_LOCATION\"/>","<uses-feature android:name=\"android.hardware.camera.autofocus\"/>","<uses-feature android:name=\"android.hardware.camera\"/>","<uses-permission android:name=\"android.permission.WRITE_CONTACTS\"/>","<uses-permission android:name=\"android.permission.ACCESS_FINE_LOCATION\"/>","<uses-permission android:name=\"android.permission.ACCESS_NETWORK_STATE\"/>","<uses-permission android:name=\"android.permission.WRITE_SETTINGS\"/>","<uses-permission android:name=\"android.permission.WRITE_SMS\"/>","<uses-permission android:name=\"android.permission.READ_SMS\"/>","<uses-permission android:name=\"android.permission.CAMERA\"/>"]
+			}
+		},
+		"splashscreen": {
+			"autoclose": false,
+			"waiting": true
+		},
+		"statusbar": {
+			"immersed": true,
+			"background": "#49c433"
+		},
+		"popGesture": "close",
+		"runmode": "liberate",
+		"signature": "Sk9JTiBVUyBtYWlsdG86aHIyMDEzQGRjbG91ZC5pbw=="
+	}
+}

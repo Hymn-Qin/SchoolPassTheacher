@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" 
+    android:background="@drawable/bg_main_color">
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="@dimen/space_56"
+        android:layout_gravity="top"
+        android:background="@color/main_color">
+
+        <!-- 返回按钮 -->
+        <LinearLayout
+            android:id="@+id/liner_titlebar_back_select_contact"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_centerVertical="true"
+            android:orientation="horizontal" >
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_marginLeft="19dp"
+                android:layout_marginRight="10dp"
+                android:background="@drawable/navigationbar_back_button" />
+        </LinearLayout>
+
+        <!-- 标题栏标题 -->
+        <TextView
+            android:id="@+id/tv_titlebar_title_select_contact"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="5dp"
+            android:layout_toRightOf="@id/liner_titlebar_back_select_contact"
+            android:textColor="@color/white"
+            android:textSize="20sp"
+            android:text="添加收信人"/>
+
+        <!-- 提交或者是确认 -->
+        <Button
+            android:id="@+id/btn_go_action_select_contact"
+            android:layout_width="wrap_content"
+            android:layout_height="@dimen/space_26"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:gravity="center"
+            android:layout_marginRight="@dimen/space_18"
+            android:background="@drawable/navigationbar_textbtn"
+            android:textSize="@dimen/sp_15"
+            android:textColor="@color/main_color"
+            android:text="全选"/>
+    </RelativeLayout>
+    <LinearLayout
+        android:id="@+id/liner_sendee_wholeView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:visibility="gone" >
+		<View 
+		    android:layout_width="match_parent"
+		    android:layout_height="0.4dp"
+		    android:background="@color/title_line"/>
+	        
+	        <ExpandableListView
+	            android:id="@+id/listview_group_list"
+	            android:layout_width="match_parent"
+	            android:layout_height="0px"
+	            android:layout_weight="1"
+	            android:background="#f8f8f8"
+	            android:scrollbars="none" />
+
+        <RelativeLayout
+            android:id="@+id/rel_black_operating"
+            android:layout_width="match_parent"
+            android:layout_height="56dp"
+            android:background="@color/white" >
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="0.4dp"
+                android:background="#CCCCCC" />
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="21dp"
+                android:layout_marginRight="21dp"
+                android:gravity="center_vertical"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:id="@+id/select"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginRight="5dp"
+                    android:text="0"
+                    android:textColor="@color/main_color"
+                    android:textSize="13sp" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="位收信人"
+                    android:textColor="#333333"
+                    android:textSize="13sp" />
+            </LinearLayout>
+
+            <Button
+                android:id="@+id/btn_black_move"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="21dp"
+                android:background="@drawable/btn_sure_add_contacts"
+                android:gravity="center"
+                android:text="确认"
+                android:textColor="@color/white"
+                android:textSize="13sp" />
+
+            <Button
+                android:id="@+id/btn_black_cancel"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="10dp"
+                android:layout_toLeftOf="@+id/btn_black_move"
+                android:background="@drawable/btn_cancle_add_contacts"
+                android:gravity="center"
+                android:text="取消"
+                android:textColor="#999999"
+                android:textSize="13sp" />
+        </RelativeLayout>
+    </LinearLayout>
+    
+    <!-- 加载失败 -->
+    <include
+        android:id="@+id/view_sendee_load_error"
+        layout="@layout/pub_read_faile"
+        android:visibility="gone" />
+
+<!-- 加载中 -->
+    <include
+        android:id="@+id/view_sendee_loading"
+        layout="@layout/pub_read_loading"
+        />
+    <!-- 没有数据 -->
+    <include
+        android:id="@+id/view_sendee_no_content"
+        layout="@layout/pub_read_no_content"
+        android:visibility="gone" />
+</LinearLayout>

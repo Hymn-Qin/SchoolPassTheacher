@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true"
+    android:overScrollMode="never"
+    android:scrollbars="none" >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/col_account_bg"
+        android:focusable="true"
+        android:focusableInTouchMode="true"
+        android:orientation="vertical" >
+
+        <RelativeLayout
+            android:layout_width="fill_parent"
+            android:layout_height="@dimen/space_56"
+            android:background="@color/main_color" >
+
+            <!-- 返回按钮 -->
+
+            <LinearLayout
+                android:id="@+id/liner_titlebar_back"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_centerVertical="true"
+                android:orientation="horizontal" >
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginLeft="19dp"
+                    android:layout_marginRight="10dp"
+                    android:background="@drawable/navigationbar_back_button" />
+            </LinearLayout>
+
+            <!-- 标题栏标题 -->
+
+            <TextView
+                android:id="@+id/tv_titlebar_title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="5dp"
+                android:layout_toRightOf="@id/liner_titlebar_back"
+                android:text="新建短信通知"
+                android:textColor="@color/white"
+                android:textSize="20sp" />
+
+            <!-- 提交或者是确认 -->
+
+            <Button
+                android:id="@+id/btn_sent"
+                android:layout_width="wrap_content"
+                android:layout_height="@dimen/space_26"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="@dimen/space_18"
+                android:background="@drawable/navigationbar_textbtn"
+                android:gravity="center"
+                android:text="发送"
+                android:textColor="@color/main_color"
+                android:textSize="@dimen/sp_15" />
+        </RelativeLayout>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="0.7dp"
+            android:background="@color/title_line" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/col_account_bg"
+            android:orientation="vertical"
+            android:paddingLeft="18dp"
+            android:paddingRight="18dp" >
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/space_17"
+                android:paddingBottom="@dimen/space_5" >
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:visibility="gone" />
+
+                <TextView
+                    android:id="@+id/tv_temp_0098"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="22dp"
+                    android:text="收信人"
+                    android:textColor="@color/black_code"
+                    android:textSize="17sp"
+                    android:visibility="gone" />
+
+                <EditText
+                    android:id="@+id/tv_contacts"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/login_input_bg"
+                    android:enabled="false"
+                    android:hint="收信人"
+                    android:textColor="@color/black_code"
+                    android:textColorHint="#999999"
+                    android:textSize="17sp" />
+
+                <Button
+                    android:id="@+id/btn_select_contacts"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginLeft="@dimen/space_5"
+                    android:background="@drawable/side_attence_add_check_bg" />
+            </LinearLayout>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="0.4dp"
+                android:background="#CCCCCC"
+                android:visibility="gone" />
+
+            <LinearLayout
+                android:id="@+id/sent_notice_liner"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/space_17"
+                android:background="@drawable/side_remark_bg"
+                android:orientation="vertical" >
+
+                <EditText
+                    android:id="@+id/sent_notice_content"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@null"
+                    android:gravity="top"
+                    android:hint="通知详情"
+                    android:minHeight="100dp"
+                    android:textColor="@color/black_code"
+                    android:textColorHint="#999999"
+                    android:textSize="17sp" />
+
+                <TextView
+                    android:id="@+id/sent_notice_tv"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="right"
+                    android:layout_marginTop="5dp"
+                    android:textColor="#999999" />
+            </LinearLayout>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="0.4dp"
+                android:layout_marginBottom="20dp"
+                android:background="#CCCCCC"
+                android:visibility="invisible" />
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/space_20"
+                android:layout_marginRight="@dimen/space_20" >
+
+                <View
+                    android:layout_width="wrap_content"
+                    android:layout_height="0.2dp"
+                    android:layout_centerVertical="true"
+                    android:background="@color/title_line" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerHorizontal="true"
+                    android:layout_centerInParent="true"
+                    android:background="@color/col_account_bg"
+                    android:text="更多选项"
+                    android:paddingRight="10dp"
+                    android:paddingLeft="10dp"
+                    android:textColor="@color/title_no_focus_login"
+                    android:textSize="@dimen/sp_13" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/rl_sent_sign"
+                android:layout_width="fill_parent"
+                android:layout_height="50dp"
+                android:layout_marginTop="@dimen/space_17"
+                android:background="@drawable/login_input_bg" >
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:visibility="gone" />
+
+                <TextView
+                    android:id="@+id/tv_temp_0096"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:text="签名"
+                    android:textColor="#999999"
+                    android:textSize="17sp" />
+
+                <EditText
+                    android:id="@+id/tv_sign"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:layout_toRightOf="@+id/tv_temp_0096"
+                    android:background="@null"
+                    android:gravity="right"
+                    android:hint="请选择签名"
+                    android:textColor="@color/black_code"
+                    android:textColorHint="#999999"
+                    android:textSize="17sp" />
+            </RelativeLayout>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="0.4dp"
+                android:background="#CCCCCC"
+                android:visibility="gone" />
+
+            <RelativeLayout
+                android:id="@+id/rl_notice_time"
+                android:layout_width="fill_parent"
+                android:layout_height="50dp"
+                android:layout_marginTop="@dimen/space_17"
+                android:background="@drawable/login_input_bg" >
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:background="@drawable/send_t"
+                    android:visibility="gone" />
+
+                <TextView
+                    android:id="@+id/tv_temp_0097"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:text="定时发送"
+                    android:textColor="#999999"
+                    android:textSize="17sp" />
+
+                <EditText
+                    android:id="@+id/tv_time"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:layout_toRightOf="@+id/tv_temp_0097"
+                    android:background="@null"
+                    android:gravity="right"
+                    android:hint="未选择"
+                    android:textColor="@color/black_code"
+                    android:textColorHint="#999999"
+                    android:textSize="17sp" />
+            </RelativeLayout>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="0.4dp"
+                android:background="#CCCCCC"
+                android:visibility="gone" />
+        </LinearLayout>
+    </LinearLayout>
+
+</ScrollView>

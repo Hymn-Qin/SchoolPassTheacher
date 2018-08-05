@@ -1,0 +1,174 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\anim\\animal_zoom_out_normal.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\anim\\animal_zoom_out_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\anim\\animal_slide_in_from_bottom_fullscreen_normal.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\anim\\animal_slide_in_from_bottom_fullscreen_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\anim\\animal_push_left_out_normal.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\anim\\animal_push_left_out_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\anim\\animal_push_up_out_normal.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\anim\\animal_push_up_out_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\anim\\animal_slide_out_top.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\anim\\animal_slide_out_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\anim\\animal_right_scale_in_normal.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\anim\\animal_right_scale_in_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\anim\\animal_start_acy_normal.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\anim\\animal_start_acy_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\anim\\animal_left_scale_out_normal.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\anim\\animal_left_scale_out_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\anim\\animal_fade_out_normal.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\anim\\animal_fade_out_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\anim\\animal_login_shake.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\anim\\animal_login_shake.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\anim\\animal_right_scale_out_normal.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\anim\\animal_right_scale_out_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\anim\\animal_push_right_in_normal.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\anim\\animal_push_right_in_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\anim\\animal_push_left_in_normal.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\anim\\animal_push_left_in_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\anim\\animal_center_out_normal.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\anim\\animal_center_out_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\anim\\animal_left_scale_in_normal.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\anim\\animal_left_scale_in_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\anim\\side_info.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\anim\\side_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\anim\\animal_fade_in.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\anim\\animal_fade_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\anim\\animal_slide_out_to_top_fullscreen_normal.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\anim\\animal_slide_out_to_top_fullscreen_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\anim\\animal_center_in_normal.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\anim\\animal_center_in_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\anim\\animal_zoom_in_normal.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\anim\\animal_zoom_in_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\anim\\animal_slide_in_top.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\anim\\animal_slide_in_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\anim\\animal_login_shake_cycle.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\anim\\animal_login_shake_cycle.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\anim\\animal_slide_in_bottom.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\anim\\animal_slide_in_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\anim\\animal_fade_in_center_normal.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\anim\\animal_fade_in_center_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\anim\\animal_slide_out_bottom.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\anim\\animal_slide_out_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\anim\\animal_slide_in_from_bottom_normal.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\anim\\animal_slide_in_from_bottom_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\anim\\animal_fade_out_center_normal.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\anim\\animal_fade_out_center_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\anim\\animal_fade_out.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\anim\\animal_fade_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\anim\\animal_fade_in_normal.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\anim\\animal_fade_in_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\anim\\animal_slide_out_to_bottom_fullscreen_normal.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\anim\\animal_slide_out_to_bottom_fullscreen_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\anim\\animal_push_up_in_normal.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\anim\\animal_push_up_in_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\anim\\animal_push_right_out_normal.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\anim\\animal_push_right_out_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\build\\intermediates\\res\\merged\\release\\anim\\animal_slide_in_from_top_fullscreen_normal.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\2.5.3\\SchoolPassTheacher\\SchoolTeacher\\src\\main\\res\\anim\\animal_slide_in_from_top_fullscreen_normal.xml"
+    }
+]
